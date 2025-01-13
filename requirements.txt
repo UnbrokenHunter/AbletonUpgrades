@@ -1,0 +1,5 @@
+pip install pyautogui
+pip install pillow
+pip install keyboard
+pip install pygetwindow
+pip install psutil
