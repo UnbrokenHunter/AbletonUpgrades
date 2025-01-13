@@ -1,6 +1,7 @@
 import keyboard
 from core.config_manager import validate_and_update_config
 from core.action_registry import action_registry
+from utils.logging_utils import log
 
 def register_hotkeys(config_file):
     # Validate and update the config file
@@ -12,9 +13,9 @@ def register_hotkeys(config_file):
         action = action_registry.get(action_name)
         if action:
             registered_hotkeys[hotkey] = action
-            print(f"Registered hotkey '{hotkey}' for action '{action_name}'.")
+            log.info(f"Registered hotkey '{hotkey}' for action '{action_name}'.")
         else:
-            print(f"Warning: Action '{action_name}' not found in registry.")
+            log.exception(f"Warning: Action '{action_name}' not found in registry.")
     return registered_hotkeys
 
 def process_hotkeys(hotkeys):

@@ -1,4 +1,5 @@
 import pygetwindow as gw
+from utils.logging_utils import log
 
 def is_ableton_active():
     """
@@ -13,5 +14,5 @@ def is_ableton_active():
             return "Ableton Live" in active_window.title
         return False
     except Exception as e:
-        print(f"Error checking active window: {e}")
+        log.error(f"Error checking active window: {e}")
         return False
