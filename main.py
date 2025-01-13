@@ -16,8 +16,8 @@ def main():
             if is_ableton_active():
                 process_hotkeys(hotkeys)
                 log.info("Ableton Active")
-            else:
-                log.info("Ableton is not active.")
+            # else:
+            #     log.info("Ableton is not active.")
     except KeyboardInterrupt:
         log.info("Exiting...")
 
