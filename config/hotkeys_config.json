@@ -1,6 +1,6 @@
 {
   "hotkeys": {
     "ctrl+shift+1": "do_action_a",
-    "ctrl+shift+2": "do_action_b"
+    "mouse.left": "do_action_b"
   }
 }

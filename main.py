@@ -1,4 +1,4 @@
-from core.hotkey_manager import register_hotkeys, process_hotkeys
+from core.hotkey_manager import InputHandler
 from utils.window_utils import is_ableton_active
 from utils.logging_utils import log
 
@@ -7,14 +7,17 @@ def main():
 
     # Locate Hotkey config file is present
     CONFIG_PATH = "config/hotkeys_config.json"
-    hotkeys = register_hotkeys(CONFIG_PATH) # Locates and validates configs
+
+    # Locates and validates configs
+    handler = InputHandler(CONFIG_PATH)
+    handler.register_hotkeys()
 
     log.info("Hotkeys registered. Listening for inputs...")
 
     try:
         while True:
             if is_ableton_active():
-                process_hotkeys(hotkeys)
+                handler.process_inputs()
                 log.info("Ableton Active")
             # else:
             #     log.info("Ableton is not active.")
