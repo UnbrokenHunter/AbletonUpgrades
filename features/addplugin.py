@@ -3,13 +3,13 @@ import time
 from utils.macro_utils import start_macro, stop_macro
 from utils.logging_utils import log
 
-def run():
+def run(plugin):
     print("Attempting Add Plugin")
     try:        
         start_macro()
 
         pyautogui.hotkey("ctrl", "f")  # Search
-        pyautogui.write("Utility")
+        pyautogui.write(str(plugin))
         pyautogui.press("down")
         pyautogui.press("enter")
 

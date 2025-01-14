@@ -29915,3 +29915,1483 @@
 2025-01-13 20:56:38,022 - Released all pressed keys.
 2025-01-13 20:56:38,022 - User input blocked. Starting automation.
 2025-01-13 20:56:38,449 - User input restored.
+2025-01-13 21:02:05,256 - Exiting...
+2025-01-13 21:02:06,407 - Starting the Ableton Helper...
+2025-01-13 21:02:06,411 - Config file is up to date.
+2025-01-13 21:02:06,411 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:02:06,412 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:02:06,412 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:02:06,412 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:02:10,164 - Released all pressed keys.
+2025-01-13 21:02:10,164 - User input blocked. Starting automation.
+2025-01-13 21:02:10,582 - User input restored.
+2025-01-13 21:02:14,149 - Released all pressed keys.
+2025-01-13 21:02:14,150 - User input blocked. Starting automation.
+2025-01-13 21:02:14,563 - User input restored.
+2025-01-13 21:02:15,737 - Released all pressed keys.
+2025-01-13 21:02:15,737 - User input blocked. Starting automation.
+2025-01-13 21:02:16,153 - User input restored.
+2025-01-13 21:02:18,856 - Released all pressed keys.
+2025-01-13 21:02:18,856 - User input blocked. Starting automation.
+2025-01-13 21:02:19,274 - User input restored.
+2025-01-13 21:02:20,679 - Released all pressed keys.
+2025-01-13 21:02:20,679 - User input blocked. Starting automation.
+2025-01-13 21:02:21,097 - User input restored.
+2025-01-13 21:03:25,828 - Exiting...
+2025-01-13 21:03:27,514 - Starting the Ableton Helper...
+2025-01-13 21:03:27,515 - Config file is up to date.
+2025-01-13 21:03:27,515 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:03:27,515 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:03:27,516 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:03:27,516 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:08:13,650 - Starting the Ableton Helper...
+2025-01-13 21:08:13,651 - Config file is up to date.
+2025-01-13 21:08:13,651 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:08:13,651 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:08:13,652 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:08:13,652 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:10:11,952 - Starting the Ableton Helper...
+2025-01-13 21:10:11,953 - Config file is up to date.
+2025-01-13 21:10:11,953 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:10:11,953 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:10:11,953 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:10:11,953 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:10:14,332 - Exiting...
+2025-01-13 21:10:15,599 - Starting the Ableton Helper...
+2025-01-13 21:10:15,599 - Config file is up to date.
+2025-01-13 21:10:15,600 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:10:15,600 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:10:15,600 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:10:15,600 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:11:41,888 - Starting the Ableton Helper...
+2025-01-13 21:11:41,888 - Config file is up to date.
+2025-01-13 21:11:41,889 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:11:41,889 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:11:41,889 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:11:41,889 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:12:50,870 - Starting the Ableton Helper...
+2025-01-13 21:12:50,871 - Config file is up to date.
+2025-01-13 21:12:50,871 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:12:50,871 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:12:50,871 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:12:50,871 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:18:12,851 - Starting the Ableton Helper...
+2025-01-13 21:18:12,851 - Config file is up to date.
+2025-01-13 21:18:12,851 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:18:12,852 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:18:12,852 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:18:12,852 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:18:29,254 - Starting the Ableton Helper...
+2025-01-13 21:18:29,254 - Config file is up to date.
+2025-01-13 21:18:29,255 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:18:29,255 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:18:29,255 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:18:29,255 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:18:37,498 - Starting the Ableton Helper...
+2025-01-13 21:18:37,498 - Config file is up to date.
+2025-01-13 21:18:37,499 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:18:37,499 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:18:37,499 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:18:37,499 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:18:52,554 - Starting the Ableton Helper...
+2025-01-13 21:18:52,555 - Config file is up to date.
+2025-01-13 21:18:52,555 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:18:52,555 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:18:52,555 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:18:52,556 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:19:11,720 - Starting the Ableton Helper...
+2025-01-13 21:19:11,721 - Config file is up to date.
+2025-01-13 21:19:11,721 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:19:11,721 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:19:11,722 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:19:11,722 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:22:14,636 - Starting the Ableton Helper...
+2025-01-13 21:22:14,637 - Config file is up to date.
+2025-01-13 21:22:14,637 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:22:14,637 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:22:14,637 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:22:14,637 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:22:31,396 - Starting the Ableton Helper...
+2025-01-13 21:22:31,397 - Config file is up to date.
+2025-01-13 21:22:31,397 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:22:31,397 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:22:31,397 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:22:31,398 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:22:54,440 - Starting the Ableton Helper...
+2025-01-13 21:22:54,441 - Config file is up to date.
+2025-01-13 21:22:54,441 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:22:54,441 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:22:54,441 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:22:54,442 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:24:20,075 - Starting the Ableton Helper...
+2025-01-13 21:24:20,076 - Config file is up to date.
+2025-01-13 21:24:20,076 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:24:20,076 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:24:20,077 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:24:20,077 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:24:29,752 - Starting the Ableton Helper...
+2025-01-13 21:24:29,753 - Config file is up to date.
+2025-01-13 21:24:29,753 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:24:29,753 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:24:29,753 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:24:29,753 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:25:54,135 - Starting the Ableton Helper...
+2025-01-13 21:25:54,136 - Config file is up to date.
+2025-01-13 21:25:54,136 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:25:54,136 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:25:54,137 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:25:54,137 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:27:08,192 - Starting the Ableton Helper...
+2025-01-13 21:27:08,192 - Config file is up to date.
+2025-01-13 21:27:08,193 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:27:08,193 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:27:08,193 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:27:08,193 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:30:06,020 - Starting the Ableton Helper...
+2025-01-13 21:30:06,021 - Config file is up to date.
+2025-01-13 21:30:06,021 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:30:06,021 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:30:06,021 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:30:06,021 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:31:50,533 - Starting the Ableton Helper...
+2025-01-13 21:31:50,534 - Config file is up to date.
+2025-01-13 21:31:50,534 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:31:50,534 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:31:50,534 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:31:50,534 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:33:57,918 - Starting the Ableton Helper...
+2025-01-13 21:33:57,918 - Config file is up to date.
+2025-01-13 21:33:57,919 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:33:57,919 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:33:57,919 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:33:57,919 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:34:15,658 - Starting the Ableton Helper...
+2025-01-13 21:34:15,658 - Config file is up to date.
+2025-01-13 21:34:15,659 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:34:15,659 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:34:15,659 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:34:15,659 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:34:28,386 - Starting the Ableton Helper...
+2025-01-13 21:34:28,387 - Config file is up to date.
+2025-01-13 21:34:28,387 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:34:28,387 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:34:28,388 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:34:28,388 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:36:18,404 - Starting the Ableton Helper...
+2025-01-13 21:36:18,404 - Config file is up to date.
+2025-01-13 21:36:18,404 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:36:18,405 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:36:18,405 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:36:18,405 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:36:49,253 - Starting the Ableton Helper...
+2025-01-13 21:36:49,254 - Config file is up to date.
+2025-01-13 21:36:49,254 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:36:49,254 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:36:49,255 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:36:49,255 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:37:10,728 - Starting the Ableton Helper...
+2025-01-13 21:37:10,729 - Config file is up to date.
+2025-01-13 21:37:10,729 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:37:10,729 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:37:10,729 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:37:10,730 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:41:34,786 - Starting the Ableton Helper...
+2025-01-13 21:41:34,787 - Config file is up to date.
+2025-01-13 21:41:34,787 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:41:34,787 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:41:34,788 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:41:34,788 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:42:52,077 - Starting the Ableton Helper...
+2025-01-13 21:42:52,078 - Config file is up to date.
+2025-01-13 21:42:52,078 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:42:52,078 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:42:52,078 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:42:52,079 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:44:37,882 - Starting the Ableton Helper...
+2025-01-13 21:44:37,883 - Config file is up to date.
+2025-01-13 21:44:37,883 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:44:37,883 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:44:37,883 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:44:37,883 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:46:21,213 - Starting the Ableton Helper...
+2025-01-13 21:46:21,213 - Config file is up to date.
+2025-01-13 21:46:21,214 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:46:21,214 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:46:21,214 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:46:21,214 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:47:19,861 - Starting the Ableton Helper...
+2025-01-13 21:47:19,861 - Config file is up to date.
+2025-01-13 21:47:19,861 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:47:19,863 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:47:19,863 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:47:19,863 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:48:03,313 - Starting the Ableton Helper...
+2025-01-13 21:48:03,313 - Config file is up to date.
+2025-01-13 21:48:03,313 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:48:03,313 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:48:03,315 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:48:03,315 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:48:27,917 - Starting the Ableton Helper...
+2025-01-13 21:48:27,917 - Config file is up to date.
+2025-01-13 21:48:27,918 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:48:27,919 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:48:27,919 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:48:27,919 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:49:03,967 - Starting the Ableton Helper...
+2025-01-13 21:49:03,967 - Config file is up to date.
+2025-01-13 21:49:03,968 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:49:03,968 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:49:03,968 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:49:03,968 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:49:05,347 - Exiting...
+2025-01-13 21:49:14,931 - Starting the Ableton Helper...
+2025-01-13 21:49:14,931 - Config file is up to date.
+2025-01-13 21:49:14,932 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:49:14,932 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:49:14,932 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:49:14,932 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:50:44,108 - Starting the Ableton Helper...
+2025-01-13 21:50:44,109 - Config file is up to date.
+2025-01-13 21:50:44,109 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:50:44,110 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:50:44,110 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:50:44,110 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:50:44,677 - Exiting...
+2025-01-13 21:50:50,500 - Starting the Ableton Helper...
+2025-01-13 21:50:50,501 - Config file is up to date.
+2025-01-13 21:50:50,501 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:50:50,501 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:50:50,502 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:50:50,502 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:52:44,112 - Starting the Ableton Helper...
+2025-01-13 21:52:44,113 - Config file is up to date.
+2025-01-13 21:52:44,113 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:52:44,113 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:52:44,114 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:52:44,114 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:54:32,164 - Starting the Ableton Helper...
+2025-01-13 21:54:32,164 - Config file is up to date.
+2025-01-13 21:54:32,165 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:54:32,165 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:54:32,165 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:54:32,165 - Hotkeys registered. Listening for inputs...
+2025-01-13 21:54:38,585 - Exiting...
+2025-01-13 21:54:40,152 - Starting the Ableton Helper...
+2025-01-13 21:54:40,153 - Config file is up to date.
+2025-01-13 21:54:40,153 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 21:54:40,153 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 21:54:40,153 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 21:54:40,153 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:01:31,964 - Exiting...
+2025-01-13 22:01:33,023 - Starting the Ableton Helper...
+2025-01-13 22:01:33,023 - Config file is up to date.
+2025-01-13 22:01:33,023 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:01:33,024 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:01:33,024 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:01:33,024 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:02:08,757 - Starting the Ableton Helper...
+2025-01-13 22:02:08,757 - Config file is up to date.
+2025-01-13 22:02:08,758 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:02:08,758 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:02:08,758 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:02:08,758 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:03:47,301 - Starting the Ableton Helper...
+2025-01-13 22:03:47,302 - Config file is up to date.
+2025-01-13 22:03:47,302 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:03:47,302 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:03:47,302 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:03:47,302 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:04:54,512 - Starting the Ableton Helper...
+2025-01-13 22:04:54,512 - Config file is up to date.
+2025-01-13 22:04:54,513 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:04:54,513 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:04:54,513 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:04:54,513 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:05:34,936 - Starting the Ableton Helper...
+2025-01-13 22:05:34,936 - Config file is up to date.
+2025-01-13 22:05:34,937 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:05:34,937 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:05:34,937 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:05:34,937 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:05:41,301 - Exiting...
+2025-01-13 22:23:46,845 - Starting the Ableton Helper...
+2025-01-13 22:23:46,845 - Config file is up to date.
+2025-01-13 22:23:46,846 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:23:46,846 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:23:46,846 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:23:46,846 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:24:44,630 - Exiting...
+2025-01-13 22:24:46,081 - Starting the Ableton Helper...
+2025-01-13 22:24:46,081 - Config file is up to date.
+2025-01-13 22:24:46,082 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:24:46,083 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:24:46,083 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:24:46,083 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:24:52,692 - Exiting...
+2025-01-13 22:28:15,650 - Starting the Ableton Helper...
+2025-01-13 22:28:15,650 - Config file is up to date.
+2025-01-13 22:28:15,651 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:28:15,651 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:28:15,651 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:28:15,652 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:28:29,931 - Starting the Ableton Helper...
+2025-01-13 22:28:29,932 - Config file is up to date.
+2025-01-13 22:28:29,933 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:28:29,933 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:28:29,933 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:28:29,933 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:31:27,321 - Starting the Ableton Helper...
+2025-01-13 22:31:27,321 - Config file is up to date.
+2025-01-13 22:31:27,322 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:31:27,322 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:31:27,322 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:31:27,322 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:32:23,024 - Starting the Ableton Helper...
+2025-01-13 22:32:23,024 - Config file is up to date.
+2025-01-13 22:32:23,024 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:32:23,025 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:32:23,025 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:32:23,025 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:33:23,365 - Starting the Ableton Helper...
+2025-01-13 22:33:23,366 - Config file is up to date.
+2025-01-13 22:33:23,366 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:33:23,366 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:33:23,366 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:33:23,366 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:33:23,391 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,399 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,408 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,416 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,424 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,432 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,440 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,446 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,455 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,462 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,471 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,479 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,487 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,494 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,503 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,510 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,519 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,526 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,535 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,543 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,551 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,559 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,566 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,575 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,583 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,591 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,598 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,606 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,614 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,622 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,629 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,636 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,645 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,652 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,661 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,668 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,677 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,684 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,693 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,702 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,710 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,719 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,727 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,736 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,744 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,752 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,760 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,768 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,776 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,784 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,792 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,799 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,808 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,816 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,824 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,832 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,840 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,848 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,857 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,865 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,872 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,880 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,889 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,897 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,904 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,911 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,921 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,930 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,943 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,951 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,966 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,975 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,981 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,990 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:23,997 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,006 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,012 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,020 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,028 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,036 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,043 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,051 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,058 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,066 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,074 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,082 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,089 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,098 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,106 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,114 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,122 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,130 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,139 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,146 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,154 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,162 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,171 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,179 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,188 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,196 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,204 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,212 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,220 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,228 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,236 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,244 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,252 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,260 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,268 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,276 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,284 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,291 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,299 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,308 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,315 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,324 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,332 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,341 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,349 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,357 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,365 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,372 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,380 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,389 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,396 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,404 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,412 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,419 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,426 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,436 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,443 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,452 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,461 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,470 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,482 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,492 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,500 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,510 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,518 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,526 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,534 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,542 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,550 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,558 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,567 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,574 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,582 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,590 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,598 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,606 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,614 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,621 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,630 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,638 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,645 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,654 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,662 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,670 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,678 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,687 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,694 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,703 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,711 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,719 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,727 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,735 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,744 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,752 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,760 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,769 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,778 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,786 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,794 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,801 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,810 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,818 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,825 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,833 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,841 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,849 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,857 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,864 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,872 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,879 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,888 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,896 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,903 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,912 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,919 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,926 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,935 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,943 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,950 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,959 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,966 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,975 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,982 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,991 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:24,999 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,008 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,016 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,025 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,032 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,041 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,048 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,057 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,064 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,072 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,081 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,089 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,096 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,104 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,113 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,122 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,129 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,138 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,146 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,154 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,162 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,170 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,178 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,186 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,195 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,203 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,211 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,219 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,227 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,235 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,244 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,251 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,259 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,266 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,275 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,283 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,291 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,298 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,306 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,314 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,323 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,330 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,339 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,346 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,355 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,363 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,371 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,378 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,391 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,459 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,466 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,475 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,483 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,492 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,500 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,508 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,516 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,524 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,531 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,540 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,549 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,557 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,564 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,573 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,581 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,590 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,598 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,608 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,618 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,627 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,635 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,644 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,653 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,661 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,669 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,678 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,686 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,694 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,702 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,711 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,720 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,728 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,736 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,744 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,752 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,761 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,770 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,778 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,786 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,795 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,803 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,813 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,821 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,829 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,839 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,847 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,855 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,863 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,873 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,885 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,896 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,908 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,916 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,923 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,931 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,938 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,945 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,953 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,962 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,969 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,976 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,985 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:25,993 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,000 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,008 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,015 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,024 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,032 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,040 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,048 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,057 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,064 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,073 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,080 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,089 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,097 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,105 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,114 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,122 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,130 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,138 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,146 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,154 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,162 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,171 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,179 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,188 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,196 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,204 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,213 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,221 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,229 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,236 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,245 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,254 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,262 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,271 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,279 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,286 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,296 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,303 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,312 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,320 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,328 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,336 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,344 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,353 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,361 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,370 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,378 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,386 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,395 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,403 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,410 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,419 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,426 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,435 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,443 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,452 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,459 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,468 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,475 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,484 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,492 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,500 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,508 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,516 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,524 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,531 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,540 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,547 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,555 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,564 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,571 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,580 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,588 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,595 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,604 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,612 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,621 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,628 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,636 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,645 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,654 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,661 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,670 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,678 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,686 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,693 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,701 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,710 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,719 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,726 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,735 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,743 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,751 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,759 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,768 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,775 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,784 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,792 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,800 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,809 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,817 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,825 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,833 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,841 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,848 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,858 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,865 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,873 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,882 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,891 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,899 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,906 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,915 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,923 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,931 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:26,939 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:27,219 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:27,323 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:27,437 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:27,544 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:27,651 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:27,764 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:27,869 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:27,980 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:28,088 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:28,202 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:28,307 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:28,418 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:28,528 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:28,637 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:28,742 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:54,460 - Starting the Ableton Helper...
+2025-01-13 22:33:54,460 - Config file is up to date.
+2025-01-13 22:33:54,461 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:33:54,461 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:33:54,461 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:33:54,461 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:33:54,476 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,536 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,544 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,551 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,560 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,568 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,576 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,583 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,593 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,601 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,609 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,617 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,625 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,633 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,641 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,649 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,657 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,664 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,673 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,682 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,690 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,698 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,707 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,715 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,723 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,732 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,739 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,748 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,756 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,764 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,773 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,781 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,789 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,797 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,805 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,814 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,824 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,833 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,841 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,850 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,859 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,867 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,876 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,883 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,892 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,899 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,909 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,917 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,925 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,934 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,942 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,951 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,959 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,968 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,976 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,985 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:54,993 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,001 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,010 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,017 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,026 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,033 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,042 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,049 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,058 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,066 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,074 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,083 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,091 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,099 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,107 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,115 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,124 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,131 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,140 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,148 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,156 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,165 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,173 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,181 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,190 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,197 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,205 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,214 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,222 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,230 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,238 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,246 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,254 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,263 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,271 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,279 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,288 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,296 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,304 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,312 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,319 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,327 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,335 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,343 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,350 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,359 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,366 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,375 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,383 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,391 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,399 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,407 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,416 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,430 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,440 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,449 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,457 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,465 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,474 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,481 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,490 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,496 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,506 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,513 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,522 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,530 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,538 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,546 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,555 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,564 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,571 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,580 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,587 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,595 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,603 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,612 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,619 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,627 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,636 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,644 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,652 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,660 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,668 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,676 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,684 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,692 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,701 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,709 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,717 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,726 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,733 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,742 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,750 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,759 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,767 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,775 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,783 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,791 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,799 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,807 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,814 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,823 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,831 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,839 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,847 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,855 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,864 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,871 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,879 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,888 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,896 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,904 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,912 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,920 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,928 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,936 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,943 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,952 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,960 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,968 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,976 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,984 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:55,992 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,000 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,008 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,016 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,024 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,032 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,041 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,048 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,056 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,065 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,073 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,081 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,089 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,097 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,105 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,113 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,122 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,130 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,139 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,147 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,155 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,163 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,172 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,179 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,187 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,196 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,203 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,212 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,219 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,226 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,234 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,243 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,250 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,259 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,267 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,276 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,284 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,293 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,300 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,309 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,317 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,325 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,333 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,341 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,349 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,357 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,365 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,374 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,382 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,390 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,399 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,407 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,414 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,423 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,431 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,443 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,451 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,460 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,468 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,476 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,484 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,492 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,500 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,508 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,516 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,524 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,533 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,543 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,550 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,561 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,570 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,581 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,590 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,597 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,605 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,614 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,622 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,630 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,637 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,645 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,653 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,661 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,670 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,678 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,687 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,694 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,703 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,711 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,719 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,729 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,738 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,746 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,753 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,761 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,769 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,778 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,787 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,796 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,805 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:56,814 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:57,103 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:57,213 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:57,322 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:57,433 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:57,543 - Active window process: ableton live 12 trial.exe, Parent process: explorer.exe
+2025-01-13 22:33:57,650 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:57,759 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:57,872 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:57,981 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,092 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,200 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,308 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,420 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,526 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,640 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,749 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,853 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:58,962 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,074 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,182 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,293 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,405 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,512 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,619 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,728 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,840 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:33:59,947 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,058 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,170 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,276 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,390 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,500 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,604 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,719 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,825 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:00,933 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:01,041 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:01,152 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:01,263 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:01,371 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:01,477 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:01,589 - Active window process: python.exe, Parent process: python.exe
+2025-01-13 22:34:01,697 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:01,809 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:01,919 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,024 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,140 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,246 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,352 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,463 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,578 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,684 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,793 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:02,906 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,015 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,121 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,231 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,339 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,448 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,558 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,665 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,775 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,885 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:03,996 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,104 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,222 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,326 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,436 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,543 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,651 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,763 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,871 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:04,981 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:05,091 - Active window process: code.exe, Parent process: explorer.exe
+2025-01-13 22:34:15,284 - Starting the Ableton Helper...
+2025-01-13 22:34:15,284 - Config file is up to date.
+2025-01-13 22:34:15,285 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:34:15,285 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:34:15,285 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:34:15,285 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:34:37,754 - Starting the Ableton Helper...
+2025-01-13 22:34:37,755 - Config file is up to date.
+2025-01-13 22:34:37,755 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:34:37,755 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:34:37,756 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:34:37,756 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:35:56,686 - Starting the Ableton Helper...
+2025-01-13 22:35:56,687 - Config file is up to date.
+2025-01-13 22:35:56,687 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:35:56,687 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:35:56,687 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:35:56,687 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:37:22,706 - Starting the Ableton Helper...
+2025-01-13 22:37:22,707 - Config file is up to date.
+2025-01-13 22:37:22,707 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:37:22,707 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:37:22,707 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:37:22,708 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:37:41,712 - Starting the Ableton Helper...
+2025-01-13 22:37:41,712 - Config file is up to date.
+2025-01-13 22:37:41,712 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:37:41,713 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:37:41,713 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:37:41,713 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:38:32,370 - Starting the Ableton Helper...
+2025-01-13 22:38:32,371 - Config file is up to date.
+2025-01-13 22:38:32,371 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:38:32,371 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:38:32,372 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:38:32,372 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:39:14,914 - Starting the Ableton Helper...
+2025-01-13 22:39:14,914 - Config file is up to date.
+2025-01-13 22:39:14,915 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:39:14,915 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:39:14,915 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:39:14,915 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:39:20,845 - Exiting...
+2025-01-13 22:41:01,419 - Starting the Ableton Helper...
+2025-01-13 22:41:01,419 - Config file is up to date.
+2025-01-13 22:41:01,420 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:41:01,420 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:41:01,420 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:41:01,420 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:41:11,626 - Starting the Ableton Helper...
+2025-01-13 22:41:11,627 - Config file is up to date.
+2025-01-13 22:41:11,627 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:41:11,627 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:41:11,628 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:41:11,628 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:41:52,416 - Starting the Ableton Helper...
+2025-01-13 22:41:52,417 - Config file is up to date.
+2025-01-13 22:41:52,417 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:41:52,418 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:41:52,418 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:41:52,418 - Hotkeys registered. Listening for inputs...
+2025-01-13 22:42:48,125 - Starting the Ableton Helper...
+2025-01-13 22:42:48,125 - Config file is up to date.
+2025-01-13 22:42:48,125 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 22:42:48,126 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 22:42:48,126 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 22:42:48,126 - Hotkeys registered. Listening for inputs...
+2025-01-13 23:12:26,380 - Starting the Ableton Helper...
+2025-01-13 23:12:26,380 - Config file is up to date.
+2025-01-13 23:12:26,381 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 23:12:26,381 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 23:12:26,381 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 23:12:26,381 - Hotkeys registered. Listening for inputs...
+2025-01-13 23:12:33,628 - Exiting...
+2025-01-13 23:12:47,504 - Starting the Ableton Helper...
+2025-01-13 23:12:47,504 - Config file is up to date.
+2025-01-13 23:12:47,505 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 23:12:47,505 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 23:12:47,505 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 23:12:47,505 - Hotkeys registered. Listening for inputs...
+2025-01-13 23:13:01,398 - Exiting...
+2025-01-13 23:13:02,446 - Starting the Ableton Helper...
+2025-01-13 23:13:02,447 - Config file is up to date.
+2025-01-13 23:13:02,447 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 23:13:02,447 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 23:13:02,448 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 23:13:02,448 - Hotkeys registered. Listening for inputs...
+2025-01-13 23:13:45,295 - Exiting...
+2025-01-13 23:13:46,539 - Starting the Ableton Helper...
+2025-01-13 23:13:46,539 - Config file is up to date.
+2025-01-13 23:13:46,540 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 23:13:46,540 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 23:13:46,540 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 23:13:46,540 - Hotkeys registered. Listening for inputs...
+2025-01-13 23:16:09,791 - Exiting...
+2025-01-13 23:16:11,108 - Starting the Ableton Helper...
+2025-01-13 23:16:11,108 - Config file is up to date.
+2025-01-13 23:16:11,109 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 23:16:11,109 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 23:16:11,109 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 23:16:11,109 - Hotkeys registered. Listening for inputs...
+2025-01-13 23:17:35,836 - Starting the Ableton Helper...
+2025-01-13 23:17:35,836 - Config file is up to date.
+2025-01-13 23:17:35,836 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 23:17:35,836 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 23:17:35,836 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 23:17:35,836 - Hotkeys registered. Listening for inputs...
+2025-01-13 23:19:10,652 - Starting the Ableton Helper...
+2025-01-13 23:19:10,652 - Config file is up to date.
+2025-01-13 23:19:10,654 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-13 23:19:10,654 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-13 23:19:10,654 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-13 23:19:10,654 - Hotkeys registered. Listening for inputs...
+2025-01-14 00:57:42,587 - Starting the Ableton Helper...
+2025-01-14 00:57:42,587 - Config file is up to date.
+2025-01-14 00:57:42,588 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 00:57:42,588 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 00:57:42,588 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 00:57:42,588 - Hotkeys registered. Listening for inputs...
+2025-01-14 00:58:39,321 - Exiting...
+2025-01-14 00:58:45,940 - Starting the Ableton Helper...
+2025-01-14 00:58:45,941 - Config file is up to date.
+2025-01-14 00:58:45,941 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 00:58:45,941 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 00:58:45,941 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 00:58:45,941 - Hotkeys registered. Listening for inputs...
+2025-01-14 00:58:55,786 - Exiting...
+2025-01-14 01:00:10,942 - Starting the Ableton Helper...
+2025-01-14 01:00:10,943 - Config file is up to date.
+2025-01-14 01:00:10,943 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:00:10,943 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:00:10,943 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:00:10,944 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:00:29,041 - Exiting...
+2025-01-14 01:00:31,334 - Starting the Ableton Helper...
+2025-01-14 01:00:31,334 - Config file is up to date.
+2025-01-14 01:00:31,334 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:00:31,334 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:00:31,334 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:00:31,334 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:00:49,564 - Exiting...
+2025-01-14 01:00:52,552 - Starting the Ableton Helper...
+2025-01-14 01:00:52,552 - Config file is up to date.
+2025-01-14 01:00:52,553 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:00:52,553 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:00:52,553 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:00:52,553 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:01:19,606 - Exiting...
+2025-01-14 01:03:09,445 - Starting the Ableton Helper...
+2025-01-14 01:03:09,446 - Config file is up to date.
+2025-01-14 01:03:09,446 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:03:09,446 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:03:09,446 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:03:09,447 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:05:13,185 - Starting the Ableton Helper...
+2025-01-14 01:05:13,186 - Config file is up to date.
+2025-01-14 01:05:13,186 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:05:13,186 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:05:13,186 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:05:13,187 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:05:24,818 - Exiting...
+2025-01-14 01:05:39,890 - Starting the Ableton Helper...
+2025-01-14 01:05:39,890 - Config file is up to date.
+2025-01-14 01:05:39,890 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:05:39,890 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:05:39,890 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:05:39,890 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:07:17,166 - Exiting...
+2025-01-14 01:07:19,684 - Starting the Ableton Helper...
+2025-01-14 01:07:19,685 - Config file is up to date.
+2025-01-14 01:07:19,685 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:07:19,685 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:07:19,685 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:07:19,685 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:08:17,915 - Starting the Ableton Helper...
+2025-01-14 01:08:17,915 - Config file is up to date.
+2025-01-14 01:08:17,915 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:08:17,915 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:08:17,916 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:08:17,916 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:08:32,924 - Exiting...
+2025-01-14 01:09:41,083 - Starting the Ableton Helper...
+2025-01-14 01:09:41,084 - Config file is up to date.
+2025-01-14 01:09:41,084 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:09:41,085 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:09:41,085 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:09:41,085 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:12:25,044 - Starting the Ableton Helper...
+2025-01-14 01:12:25,044 - Config file is up to date.
+2025-01-14 01:12:25,045 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:12:25,045 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:12:25,045 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:12:25,045 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:13:20,604 - Starting the Ableton Helper...
+2025-01-14 01:13:20,604 - Config file is up to date.
+2025-01-14 01:13:20,605 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:13:20,605 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:13:20,605 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:13:20,605 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:14:03,968 - Exiting...
+2025-01-14 01:14:05,618 - Starting the Ableton Helper...
+2025-01-14 01:14:05,618 - Config file is up to date.
+2025-01-14 01:14:05,619 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:14:05,619 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:14:05,619 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:14:05,619 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:14:43,109 - Exiting...
+2025-01-14 01:15:14,011 - Starting the Ableton Helper...
+2025-01-14 01:15:14,011 - Config file is up to date.
+2025-01-14 01:15:14,011 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:15:14,012 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:15:14,012 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:15:14,012 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:16:05,904 - Exiting...
+2025-01-14 01:16:07,200 - Starting the Ableton Helper...
+2025-01-14 01:16:07,200 - Config file is up to date.
+2025-01-14 01:16:07,201 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:16:07,201 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:16:07,201 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:16:07,201 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:16:15,713 - Exiting...
+2025-01-14 01:18:12,306 - Starting the Ableton Helper...
+2025-01-14 01:18:12,306 - Config file is up to date.
+2025-01-14 01:18:12,307 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:18:12,307 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:18:12,307 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:18:12,308 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:18:32,306 - Exiting...
+2025-01-14 01:18:33,114 - Starting the Ableton Helper...
+2025-01-14 01:18:33,114 - Config file is up to date.
+2025-01-14 01:18:33,114 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:18:33,115 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:18:33,115 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:18:33,115 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:18:58,616 - Exiting...
+2025-01-14 01:19:00,419 - Starting the Ableton Helper...
+2025-01-14 01:19:00,419 - Config file is up to date.
+2025-01-14 01:19:00,420 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:19:00,420 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:19:00,420 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:19:00,420 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:20:31,325 - Exiting...
+2025-01-14 01:20:33,370 - Starting the Ableton Helper...
+2025-01-14 01:20:33,371 - Config file is up to date.
+2025-01-14 01:20:33,371 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:20:33,371 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:20:33,372 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:20:33,372 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:20:35,419 - Exiting...
+2025-01-14 01:20:36,463 - Starting the Ableton Helper...
+2025-01-14 01:20:36,464 - Config file is up to date.
+2025-01-14 01:20:36,464 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:20:36,464 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:20:36,464 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:20:36,464 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:20:56,953 - Exiting...
+2025-01-14 01:20:57,950 - Starting the Ableton Helper...
+2025-01-14 01:20:57,951 - Config file is up to date.
+2025-01-14 01:20:57,951 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:20:57,951 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:20:57,952 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:20:57,952 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:21:35,304 - Starting the Ableton Helper...
+2025-01-14 01:21:35,305 - Config file is up to date.
+2025-01-14 01:21:35,305 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:21:35,305 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:21:35,306 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:21:35,306 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:21:41,728 - Exiting...
+2025-01-14 01:22:22,276 - Starting the Ableton Helper...
+2025-01-14 01:22:22,276 - Config file is up to date.
+2025-01-14 01:22:22,277 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:22:22,277 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:22:22,278 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:22:22,278 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:22:54,032 - Starting the Ableton Helper...
+2025-01-14 01:22:54,033 - Config file is up to date.
+2025-01-14 01:22:54,033 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:22:54,033 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:22:54,034 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:22:54,034 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:24:37,511 - Starting the Ableton Helper...
+2025-01-14 01:24:37,512 - Config file is up to date.
+2025-01-14 01:24:37,512 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:24:37,513 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:24:37,513 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:24:37,513 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:26:40,183 - Exiting...
+2025-01-14 01:26:41,470 - Starting the Ableton Helper...
+2025-01-14 01:26:41,470 - Config file is up to date.
+2025-01-14 01:26:41,471 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:26:41,471 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:26:41,471 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:26:41,471 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:27:02,844 - Exiting...
+2025-01-14 01:27:21,031 - Starting the Ableton Helper...
+2025-01-14 01:27:21,031 - Config file is up to date.
+2025-01-14 01:27:21,031 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:27:21,032 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:27:21,032 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:27:21,032 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:28:11,434 - Exiting...
+2025-01-14 01:28:12,233 - Starting the Ableton Helper...
+2025-01-14 01:28:12,233 - Config file is up to date.
+2025-01-14 01:28:12,234 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:28:12,234 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:28:12,234 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:28:12,235 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:28:21,350 - Exiting...
+2025-01-14 01:28:40,876 - Starting the Ableton Helper...
+2025-01-14 01:28:40,876 - Config file is up to date.
+2025-01-14 01:28:40,877 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:28:40,877 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:28:40,877 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:28:40,877 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:28:49,788 - Exiting...
+2025-01-14 01:28:50,714 - Starting the Ableton Helper...
+2025-01-14 01:28:50,714 - Config file is up to date.
+2025-01-14 01:28:50,715 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:28:50,715 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:28:50,715 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:28:50,715 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:29:11,329 - Exiting...
+2025-01-14 01:29:12,495 - Starting the Ableton Helper...
+2025-01-14 01:29:12,496 - Config file is up to date.
+2025-01-14 01:29:12,496 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:29:12,496 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:29:12,497 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:29:12,497 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:29:20,467 - Exiting...
+2025-01-14 01:30:26,542 - Starting the Ableton Helper...
+2025-01-14 01:30:26,542 - Config file is up to date.
+2025-01-14 01:30:26,543 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 01:30:26,543 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 01:30:26,543 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 01:30:26,543 - Hotkeys registered. Listening for inputs...
+2025-01-14 01:30:29,991 - Exiting...

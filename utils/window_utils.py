@@ -24,7 +24,7 @@ def is_ableton_active():
         # log.info(f"Active window process: {process_name}, Parent process: {parent_name}")
 
         # Check if the process name or parent process name matches Ableton
-        if "ableton" in process_name or (parent_name and "ableton" in parent_name):
+        if "ableton" in process_name or (parent_name and "ableton" in parent_name) or "python":
             return True
 
         return False
