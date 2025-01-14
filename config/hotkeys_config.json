@@ -1,6 +1,7 @@
 {
   "hotkeys": {
     "ctrl+alt+v": "hk_absolutepaste",
-    "ctrl+alt+d": "hk_absoluteduplicate"
+    "ctrl+alt+d": "hk_absoluteduplicate",
+    "e": "hk_effecttest"
   }
 }
