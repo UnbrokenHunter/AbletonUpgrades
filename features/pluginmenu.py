@@ -1,8 +1,22 @@
 import tkinter as tk
 from tkinter import font
+import json
 
 def execute_command(label):
+    """Execute a command associated with a menu item."""
     print(f"Executed: {label}")
+
+def load_menu_config(file_path):
+    """Load the menu structure from a JSON file."""
+    try:
+        with open(file_path, 'r') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print(f"Error: Menu configuration file '{file_path}' not found.")
+        return []
+    except json.JSONDecodeError:
+        print(f"Error: Failed to parse menu configuration file '{file_path}'.")
+        return []
 
 def create_menu(root, options, x_offset=0, y_offset=0):
     """Create a menu at the given position with the provided options."""
@@ -46,7 +60,7 @@ def create_menu(root, options, x_offset=0, y_offset=0):
 
         # Command execution or submenu
         if "command" in option:
-            label.bind("<Button-1>", lambda e, cmd=option["command"]: (cmd(), root.destroy()))
+            label.bind("<Button-1>", lambda e, cmd=option["command"]: (eval(cmd), root.destroy()))
         elif "submenu" in option:
             def open_submenu(event, opt=option, lbl=label):
                 close_submenus()
@@ -64,40 +78,25 @@ def create_menu(root, options, x_offset=0, y_offset=0):
             close_submenus()
             menu.destroy()
             root.destroy()
-            print("Clicked Outside")
 
     menu.bind("<Leave>", on_click_outside)
 
     return menu
 
 
-def run():        
+def run():
+    """Main function to create and show the menu."""
     root = tk.Tk()
     root.withdraw()  # Hide the root window
 
-    # Example menu structure
-    menu_structure = [
-        {"label": "Plugin A", "command": lambda: execute_command("Plugin A")},
-        {"label": "Plugin B", "submenu": [
-            {"label": "Sub-plugin B1", "command": lambda: execute_command("Sub-plugin B1")},
-            {"label": "Sub-plugin B2", "command": lambda: execute_command("Sub-plugin B2")},
-            {"label": "Sub-plugin B3", "submenu": [
-                {"label": "Sub-sub-plugin B3.1", "command": lambda: execute_command("Sub-sub-plugin B3.1")},
-                {"label": "Sub-sub-plugin B3.2", "command": lambda: execute_command("Sub-sub-plugin B3.2")},
-            ]},
-        ]},
-        {"label": "Plugin C", "command": lambda: execute_command("Plugin C")},
-        {"label": "Plugin D", "submenu": [
-            {"label": "Sub-plugin D1", "command": lambda: execute_command("Sub-plugin D1")},
-            {"label": "Sub-plugin D2", "command": lambda: execute_command("Sub-plugin D2")},
-        ]},
-    ]
+    # Load menu structure from JSON
+    menu_structure = load_menu_config("config/menu_config.json")
+
+    if not menu_structure:
+        return  # Exit if the menu structure is empty
 
     # Get mouse position and show menu
     x, y = root.winfo_pointerx(), root.winfo_pointery()
     create_menu(root, menu_structure, x_offset=x, y_offset=y)
 
-    # Run the event loop in the background
-    # root.after(5000, root.quit)
     root.mainloop()
-    # root.destroy()
