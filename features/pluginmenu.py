@@ -70,7 +70,8 @@ def create_menu(root, options, x_offset=0, y_offset=0):
                 submenu = create_menu(root, opt["submenu"], x_offset=submenu_x, y_offset=submenu_y)
                 submenus.append(submenu)
 
-            label.bind("<Enter>", lambda e: open_submenu(e, option))
+            label.bind("<Enter>", lambda e: open_submenu(e, option), add="+")
+            label.bind("<Leave>", lambda e: close_submenus(), add="+")
 
     # Close menu if clicked outside
     def on_click_outside(event):
