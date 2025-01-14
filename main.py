@@ -18,7 +18,7 @@ def main():
         while True:
             if is_ableton_active():
                 handler.process_inputs()
-                log.info("Ableton Active")
+                # log.info("Ableton Active")
             # else:
             #     log.info("Ableton is not active.")
     except KeyboardInterrupt:

@@ -1,6 +1,6 @@
 {
   "hotkeys": {
-    "ctrl+shift+1": "do_action_a",
-    "mouse.left": "do_action_b"
+    "ctrl+alt+v": "hk_absolutepaste",
+    "ctrl+alt+d": "hk_absoluteduplicate"
   }
 }
