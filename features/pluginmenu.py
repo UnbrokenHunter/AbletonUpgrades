@@ -2,6 +2,8 @@ import tkinter as tk
 from tkinter import font
 import json
 
+timer_id = None  # Global variable to track the timer
+
 def execute_command(label):
     """Execute a command associated with a menu item."""
     print(f"Executed: {label}")
@@ -40,6 +42,9 @@ def create_menu(root, options, x_offset=0, y_offset=0):
     submenus = []
 
     def close_submenus():
+        if submenus.count == 0:
+            return
+        
         """Close any open submenus."""
         for submenu in submenus:
             if submenu.winfo_exists():
@@ -63,7 +68,6 @@ def create_menu(root, options, x_offset=0, y_offset=0):
             label.bind("<Button-1>", lambda e, cmd=option["command"]: (eval(cmd), root.destroy()))
         elif "submenu" in option:
             def open_submenu(event, opt=option, lbl=label):
-                close_submenus()
                 x, y, w, h = menu.winfo_x(), menu.winfo_y(), menu_width, lbl.winfo_height()
                 submenu_x = x + w
                 submenu_y = y + i * h
@@ -72,18 +76,40 @@ def create_menu(root, options, x_offset=0, y_offset=0):
 
             # Pass the current `option` to the lambda as a default argument
             label.bind("<Enter>", lambda e, opt=option: open_submenu(e, opt), add="+")
-            label.bind("<Leave>", lambda e: close_submenus(), add="+")
+            # label.bind("<Leave>", lambda e: close_submenus(), add="+ee")
+            
+    def on_click_outside_with_buffer(event):
+        global timer_id
 
-    # Close menu if clicked outside
-    def on_click_outside(event):
-        if not menu.winfo_containing(event.x_root, event.y_root):
-            close_submenus()
-            menu.destroy()
-            root.destroy()
+        def check_mouse_position():
+            # Combine all menus and submenus, filtering out None
+            all_menus = [menu] + [m for m in submenus if m is not None]
 
-    menu.bind("<Leave>", on_click_outside)
+            # Check if mouse is inside any menu or submenu
+            inside_any_menu = any(m.winfo_containing(event.x_root, event.y_root) for m in all_menus)
 
-    return menu
+            if not inside_any_menu:
+                # Destroy all menus and submenus
+                for submenu in submenus[:]:  # Iterate over a copy of the list
+                    if submenu and submenu.winfo_exists():
+                        submenu.destroy()
+                        submenus.remove(submenu)
+                menu.destroy()
+                root.destroy()
+
+            # Add a delay before checking mouse position
+            
+        timer_id = root.after(200, check_mouse_position)  # 200 ms buffer
+
+    def cancel_buffer(event):
+        global timer_id
+        if timer_id:
+            root.after_cancel(timer_id)
+            timer_id = None
+
+    # Bind events
+    menu.bind("<Leave>", on_click_outside_with_buffer)  # Trigger buffer on leave
+    menu.bind("<Enter>", cancel_buffer)  # Cancel buffer when re-entering
 
 
 def run():
@@ -99,6 +125,6 @@ def run():
 
     # Get mouse position and show menu
     x, y = root.winfo_pointerx(), root.winfo_pointery()
-    create_menu(root, menu_structure, x_offset=x, y_offset=y)
+    create_menu(root, menu_structure, x_offset=x - 20, y_offset=y - 20)
 
     root.mainloop()
