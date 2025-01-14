@@ -1,67 +1,91 @@
+from utils.logging_utils import log
 import tkinter as tk
-from tkinter import font
-import json
 from features import addplugin
+from utils.font_utils import load_custom_font
+from utils.json_utils import load_menu_config
 from utils.window_utils import focus_ableton
+from PIL import Image, ImageTk, ImageDraw
 
-timer_id = None  # Global variable to track the timer
+# Global variables
+timer_id = None  # To track mouse leave timer
+MENU_CONFIG_PATH = "config/menu_config.json"  # Config file path
 
+# Utility: Create Rounded Rectangle Image
+def create_rounded_rectangle_image(width, height, corner_radius, bg_color, border_color=None, border_width=0):
+    """Create a rounded rectangle image using Pillow."""
+    img = Image.new("RGBA", (width, height), (0, 0, 0, 0))  # Transparent background
+    draw = ImageDraw.Draw(img)
+    draw.rounded_rectangle(
+        (border_width, border_width, width - border_width, height - border_width),
+        radius=corner_radius,
+        fill=bg_color,
+        outline=border_color,
+        width=border_width
+    )
+    return img
+
+
+# Core: Command Execution
 def execute_command(label):
     """Execute a command associated with a menu item."""
-    print(f"Executed: {label}")
+    log.info(f"Executed: {label}")
     focus_ableton()
     addplugin.run(label)
 
-def load_menu_config(file_path):
-    """Load the menu structure from a JSON file."""
-    try:
-        with open(file_path, 'r') as f:
-            return json.load(f)
-    except FileNotFoundError:
-        print(f"Error: Menu configuration file '{file_path}' not found.")
-        return []
-    except json.JSONDecodeError:
-        print(f"Error: Failed to parse menu configuration file '{file_path}'.")
-        return []
 
+# Core: Create Menu
 def create_menu(root, options, x_offset=0, y_offset=0):
     """Create a menu at the given position with the provided options."""
-    menu_font = font.Font(family="Arial", size=12)
+    # Load custom font
+    menu_font = load_custom_font(size=12)
 
-    # Calculate dimensions dynamically
-    max_label_width = max(menu_font.measure(option["label"]) for option in options)
+    # Calculate dimensions dynamicallye
+    padding_x = 20  # Horizontal padding
+    padding_y = 15  # Vertical padding
+    corner_radius = 20
+    max_label_width = max(menu_font.measure(option["label"]) for option in options) + padding_x
     label_height = menu_font.metrics("linespace")
-    padding_x = 20
-    padding_y = 10
     menu_width = max_label_width + padding_x * 2
     menu_height = (label_height + padding_y) * len(options)
 
+    # Create rounded background image
+    rounded_img = create_rounded_rectangle_image(
+        menu_width, menu_height, corner_radius, bg_color="#2C2C2C"
+    )
+    rounded_img_tk = ImageTk.PhotoImage(rounded_img)
+
     # Create a new top-level menu
-    menu = tk.Toplevel()
+    menu = tk.Toplevel(root)
     menu.overrideredirect(True)
     menu.attributes('-topmost', True)
     menu.geometry(f"{menu_width}x{menu_height}+{x_offset}+{y_offset}")
-    menu.config(bg="#2C2C2C")
+    menu.attributes('-transparentcolor', 'black')  # Make the black parts transparent
+    menu.config(bg="black")
 
-    submenus = []
-
-    def close_submenus():
-        if submenus.count == 0:
-            return
-        
-        """Close any open submenus."""
-        for submenu in submenus:
-            if submenu.winfo_exists():
-                submenu.destroy()
-        submenus.clear()
+    # Set the background image
+    bg_label = tk.Label(menu, image=rounded_img_tk, bg="black", bd=0)
+    bg_label.place(x=0, y=0, relwidth=1, relheight=1)
+    bg_label.image = rounded_img_tk  # Keep a reference to avoid garbage collection
 
     # Add menu items
+    submenus = []
     for i, option in enumerate(options):
         label = tk.Label(
-            menu, text=option["label"], bg="#2C2C2C", fg="white",
-            font=menu_font, anchor="w", padx=10, pady=5
+            menu,
+            text=option["label"],
+            bg="#2C2C2C",
+            fg="white",
+            font=menu_font,
+            anchor="w",
+            padx=5,
+            pady=5
         )
-        label.pack(fill=tk.X)
+        label.place(
+            x=padding_x,
+            y=i * (label_height + padding_y),
+            width=max_label_width,
+            height=label_height + padding_y
+        )
 
         # Hover effects
         label.bind("<Enter>", lambda e, lbl=label: lbl.config(bg="#3C3C3C"))
@@ -69,63 +93,58 @@ def create_menu(root, options, x_offset=0, y_offset=0):
 
         # Command execution or submenu
         if "command" in option:
-            label.bind("<Button-1>", lambda e, cmd=option["command"]: (eval(cmd), root.destroy()))
+            label.bind("<Button-1>", lambda e, cmd=option["command"]: execute_command(cmd))
         elif "submenu" in option:
-            def open_submenu(event, opt=option, lbl=label):
-                x, y, w, h = menu.winfo_x(), menu.winfo_y(), menu_width, lbl.winfo_height()
-                submenu_x = x + w
-                submenu_y = y + i * h
+            def open_submenu(event, opt=option):
+                submenu_x = menu.winfo_x() + menu_width
+                submenu_y = menu.winfo_y() + i * (label_height + padding_y)
                 submenu = create_menu(root, opt["submenu"], x_offset=submenu_x, y_offset=submenu_y)
                 submenus.append(submenu)
 
-            # Pass the current `option` to the lambda as a default argument
-            label.bind("<Enter>", lambda e, opt=option: open_submenu(e, opt), add="+")
-            # label.bind("<Leave>", lambda e: close_submenus(), add="+ee")
-            
-    def on_click_outside_with_buffer(event):
+            label.bind("<Enter>", open_submenu)
+
+    # Timer-based close logic
+    def close_menu_with_buffer(event):
+        """Start a timer to check if the mouse is outside the menu."""
         global timer_id
 
         def check_mouse_position():
-            # Combine all menus and submenus, filtering out None
-            all_menus = [menu] + [m for m in submenus if m is not None]
-
-            # Check if mouse is inside any menu or submenu
-            inside_any_menu = any(m.winfo_containing(event.x_root, event.y_root) for m in all_menus)
-
-            if not inside_any_menu:
-                # Destroy all menus and submenus
-                for submenu in submenus[:]:  # Iterate over a copy of the list
+            if not menu.winfo_containing(event.x_root, event.y_root):
+                # Destroy all submenus
+                for submenu in submenus[:]:  # Copy the list to avoid modification during iteration
                     if submenu and submenu.winfo_exists():
                         submenu.destroy()
                         submenus.remove(submenu)
                 menu.destroy()
                 root.destroy()
 
-            # Add a delay before checking mouse position
-            
-        timer_id = root.after(200, check_mouse_position)  # 200 ms buffer
+        timer_id = root.after(200, check_mouse_position)  # Delay before checking
 
-    def cancel_buffer(event):
+    def cancel_timer(event):
+        """Cancel the timer if the mouse re-enters the menu."""
         global timer_id
         if timer_id:
             root.after_cancel(timer_id)
             timer_id = None
 
-    # Bind events
-    menu.bind("<Leave>", on_click_outside_with_buffer)  # Trigger buffer on leave
-    menu.bind("<Enter>", cancel_buffer)  # Cancel buffer when re-entering
+    # Bind events for timer-based closing
+    menu.bind("<Leave>", close_menu_with_buffer)  # Trigger buffer on leave
+    menu.bind("<Enter>", cancel_timer)  # Cancel buffer when re-entering
 
 
+# Core: Run Function
 def run():
-    """Main function to create and show the menu."""
+    """Load menu structure and display the menu."""
+    # Initialize the root window
     root = tk.Tk()
     root.withdraw()  # Hide the root window
 
-    # Load menu structure from JSON
-    menu_structure = load_menu_config("config/menu_config.json")
+    # Load menu structure
+    menu_structure = load_menu_config(MENU_CONFIG_PATH)
 
     if not menu_structure:
-        return  # Exit if the menu structure is empty
+        log.error("Menu structure is empty.")
+        return
 
     # Get mouse position and show menu
     x, y = root.winfo_pointerx(), root.winfo_pointery()

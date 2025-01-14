@@ -3,7 +3,7 @@ import os
 from core.action_registry import action_registry
 from utils.logging_utils import log
 
-def validate_and_update_config(config_file):
+def validate_and_update_hotkey_config(config_file):
     if not os.path.exists(config_file):
         config = {"hotkeys": {}}
     else:

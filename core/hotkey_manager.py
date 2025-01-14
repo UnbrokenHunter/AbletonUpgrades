@@ -1,13 +1,13 @@
 import time
 from pynput import mouse
 import keyboard
-from core.config_manager import validate_and_update_config
+from core.config_manager import validate_and_update_hotkey_config
 from core.action_registry import action_registry
 from utils.logging_utils import log
 
 class InputHandler:
     def __init__(self, config_file):
-        self.config = validate_and_update_config(config_file)
+        self.config = validate_and_update_hotkey_config(config_file)
         self.last_click_time = {}
         self.double_click_threshold = 0.3  # 300ms
         self.running = True

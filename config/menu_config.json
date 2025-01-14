@@ -1,29 +1,29 @@
 [
   {
     "label": "Utility",
-    "command": "execute_command('Utility')"
+    "command": "Utility"
   },
   {
     "label": "Plugin B",
     "submenu": [
       {
         "label": "Sub-plugin B1",
-        "command": "execute_command('Sub-plugin B1')"
+        "command": "Sub-plugin B1"
       },
       {
         "label": "Sub-plugin B2",
-        "command": "execute_command('Sub-plugin B2')"
+        "command": "Sub-plugin B2"
       },
       {
         "label": "Sub-plugin B3",
         "submenu": [
           {
             "label": "Sub-sub-plugin B3.1",
-            "command": "execute_command('Sub-sub-plugin B3.1')"
+            "command": "Sub-sub-plugin B3.1"
           },
           {
             "label": "Sub-sub-plugin B3.2",
-            "command": "execute_command('Sub-sub-plugin B3.2')"
+            "command": "Sub-sub-plugin B3.2"
           }
         ]
       }
@@ -31,22 +31,22 @@
   },
   {
     "label": "Plugin C",
-    "command": "execute_command('Plugin C')"
+    "command": "Plugin C"
   },
   {
     "label": "Plugin D",
     "submenu": [
       {
         "label": "Sub-plugin D1",
-        "command": "execute_command('Sub-plugin D1')"
+        "command": "Sub-plugin D1"
       },
       {
         "label": "Sub-plugin D2",
-        "command": "execute_command('Sub-plugin D2')"
+        "command": "Sub-plugin D2"
       },
       {
         "label": "Sub-plugin E2",
-        "command": "execute_command('Sub-plugin D2')"
+        "command": "Sub-plugin D2"
       }
     ]
   }
