@@ -60,7 +60,7 @@ def create_menu(root, options, x_offset=0, y_offset=0):
 
         # Command execution or submenu
         if "command" in option:
-            label.bind("<Button-1>", lambda e, cmd=option["command"]: (eval(cmd), root.destroy()))
+            label.bind("<Button-1>", lambda e, cmd=option["command"]: (cmd(), root.destroy()))
         elif "submenu" in option:
             def open_submenu(event, opt=option, lbl=label):
                 close_submenus()
@@ -70,7 +70,8 @@ def create_menu(root, options, x_offset=0, y_offset=0):
                 submenu = create_menu(root, opt["submenu"], x_offset=submenu_x, y_offset=submenu_y)
                 submenus.append(submenu)
 
-            label.bind("<Enter>", lambda e: open_submenu(e, option), add="+")
+            # Pass the current `option` to the lambda as a default argument
+            label.bind("<Enter>", lambda e, opt=option: open_submenu(e, opt), add="+")
             label.bind("<Leave>", lambda e: close_submenus(), add="+")
 
     # Close menu if clicked outside
