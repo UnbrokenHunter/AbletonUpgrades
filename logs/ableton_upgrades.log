@@ -31597,3 +31597,78 @@
 2025-01-14 02:13:58,927 - Registered input 'e' for action 'hk_effecttest'.
 2025-01-14 02:13:58,927 - Hotkeys registered. Listening for inputs...
 2025-01-14 02:14:07,026 - Exiting...
+2025-01-14 02:15:48,283 - Starting the Ableton Helper...
+2025-01-14 02:15:48,283 - Config file is up to date.
+2025-01-14 02:15:48,284 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 02:15:48,284 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 02:15:48,284 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 02:15:48,284 - Hotkeys registered. Listening for inputs...
+2025-01-14 02:15:51,143 - Released all pressed keys.
+2025-01-14 02:15:51,143 - User input blocked. Starting automation.
+2025-01-14 02:15:51,560 - User input restored.
+2025-01-14 02:15:56,012 - Released all pressed keys.
+2025-01-14 02:15:56,013 - User input blocked. Starting automation.
+2025-01-14 02:15:56,428 - User input restored.
+2025-01-14 02:15:59,415 - Released all pressed keys.
+2025-01-14 02:15:59,415 - User input blocked. Starting automation.
+2025-01-14 02:15:59,831 - User input restored.
+2025-01-14 02:16:29,778 - Exiting...
+2025-01-14 02:16:30,507 - Starting the Ableton Helper...
+2025-01-14 02:16:30,507 - Config file is up to date.
+2025-01-14 02:16:30,508 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 02:16:30,508 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 02:16:30,508 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 02:16:30,508 - Hotkeys registered. Listening for inputs...
+2025-01-14 02:16:32,340 - Released all pressed keys.
+2025-01-14 02:16:32,341 - User input blocked. Starting automation.
+2025-01-14 02:16:32,756 - User input restored.
+2025-01-14 02:17:12,525 - Exiting...
+2025-01-14 02:18:56,597 - Starting the Ableton Helper...
+2025-01-14 02:18:56,597 - Config file is up to date.
+2025-01-14 02:18:56,598 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 02:18:56,598 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 02:18:56,598 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 02:18:56,598 - Hotkeys registered. Listening for inputs...
+2025-01-14 02:18:59,504 - Ableton Live focused: HWND=591738
+2025-01-14 02:18:59,505 - Released all pressed keys.
+2025-01-14 02:18:59,505 - User input blocked. Starting automation.
+2025-01-14 02:18:59,926 - User input restored.
+2025-01-14 02:19:26,250 - Ableton Live focused: HWND=591738
+2025-01-14 02:19:26,250 - Released all pressed keys.
+2025-01-14 02:19:26,251 - User input blocked. Starting automation.
+2025-01-14 02:19:26,672 - User input restored.
+2025-01-14 02:19:41,220 - Ableton Live focused: HWND=591738
+2025-01-14 02:19:41,221 - Released all pressed keys.
+2025-01-14 02:19:41,221 - User input blocked. Starting automation.
+2025-01-14 02:19:41,642 - User input restored.
+2025-01-14 02:19:44,784 - Ableton Live focused: HWND=591738
+2025-01-14 02:19:44,785 - Released all pressed keys.
+2025-01-14 02:19:44,785 - User input blocked. Starting automation.
+2025-01-14 02:19:45,210 - User input restored.
+2025-01-14 02:19:47,072 - Exiting...
+2025-01-14 02:19:47,991 - Starting the Ableton Helper...
+2025-01-14 02:19:47,992 - Config file is up to date.
+2025-01-14 02:19:47,992 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 02:19:47,992 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 02:19:47,992 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 02:19:47,992 - Hotkeys registered. Listening for inputs...
+2025-01-14 02:19:50,896 - Ableton Live focused: HWND=591738
+2025-01-14 02:19:50,896 - Released all pressed keys.
+2025-01-14 02:19:50,896 - User input blocked. Starting automation.
+2025-01-14 02:19:51,315 - User input restored.
+2025-01-14 02:20:03,476 - Exiting...
+2025-01-14 02:20:04,643 - Starting the Ableton Helper...
+2025-01-14 02:20:04,643 - Config file is up to date.
+2025-01-14 02:20:04,644 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 02:20:04,644 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 02:20:04,644 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 02:20:04,644 - Hotkeys registered. Listening for inputs...
+2025-01-14 02:20:07,262 - Ableton Live focused: HWND=591738
+2025-01-14 02:20:07,262 - Released all pressed keys.
+2025-01-14 02:20:07,263 - User input blocked. Starting automation.
+2025-01-14 02:20:07,679 - User input restored.
+2025-01-14 02:20:09,930 - Ableton Live focused: HWND=591738
+2025-01-14 02:20:09,930 - Released all pressed keys.
+2025-01-14 02:20:09,930 - User input blocked. Starting automation.
+2025-01-14 02:20:10,352 - User input restored.
+2025-01-14 02:20:57,383 - Exiting...

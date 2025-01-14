@@ -32,3 +32,40 @@ def is_ableton_active():
     except Exception as e:
         log.error(f"Error checking active window process: {e}")
         return False
+
+def focus_ableton():
+    """
+    Focus the Ableton Live window if it exists, using its process name.
+    """
+    try:
+        # Iterate over all processes to find Ableton
+        for proc in psutil.process_iter(attrs=["pid", "name"]):
+            try:
+                if "ableton" in proc.info["name"].lower():
+                    pid = proc.info["pid"]
+
+                    # Find the window handle associated with the Ableton process
+                    def callback(hwnd, found):
+                        _, win_pid = win32process.GetWindowThreadProcessId(hwnd)
+                        if win_pid == pid and win32gui.IsWindowVisible(hwnd):
+                            found.append(hwnd)
+
+                    hwnd_list = []
+                    win32gui.EnumWindows(callback, hwnd_list)
+
+                    if hwnd_list:
+                        # Focus the first visible Ableton window
+                        hwnd = hwnd_list[0]
+                        win32gui.ShowWindow(hwnd, 5)  # 5 = SW_SHOW
+                        win32gui.SetForegroundWindow(hwnd)
+                        log.info(f"Ableton Live focused: HWND={hwnd}")
+                        return True
+            except (psutil.NoSuchProcess, psutil.AccessDenied):
+                continue
+
+        log.warning("Ableton Live process not found.")
+        return False
+
+    except Exception as e:
+        log.error(f"Error focusing Ableton Live: {e}")
+        return False

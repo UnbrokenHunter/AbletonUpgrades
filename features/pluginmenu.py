@@ -1,12 +1,16 @@
 import tkinter as tk
 from tkinter import font
 import json
+from features import addplugin
+from utils.window_utils import focus_ableton
 
 timer_id = None  # Global variable to track the timer
 
 def execute_command(label):
     """Execute a command associated with a menu item."""
     print(f"Executed: {label}")
+    focus_ableton()
+    addplugin.run(label)
 
 def load_menu_config(file_path):
     """Load the menu structure from a JSON file."""

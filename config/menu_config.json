@@ -1,7 +1,7 @@
 [
   {
-    "label": "Plugin A",
-    "command": "execute_command('Plugin A')"
+    "label": "Utility",
+    "command": "execute_command('Utility')"
   },
   {
     "label": "Plugin B",

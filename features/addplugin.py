@@ -4,7 +4,7 @@ from utils.macro_utils import start_macro, stop_macro
 from utils.logging_utils import log
 
 def run(plugin):
-    print("Attempting Add Plugin")
+    print(f"Attempting Add Plugin: {plugin}")
     try:        
         start_macro()
 
