@@ -33398,3 +33398,47 @@ uteduplicate'.
 2025-01-14 22:43:28,924 - Loading menu configuration from 'config/menu_config.json'
 2025-01-14 22:43:37,067 - Starting the Ableton Helper...
 2025-01-14 22:43:37,067 - Config file is up to date.
+2025-01-14 22:44:01,481 - Starting the Ableton Helper...
+2025-01-14 22:44:01,481 - Config file is up to date.
+2025-01-14 22:46:40,711 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 22:46:52,190 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:02:20,468 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:02:23,200 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:02:29,352 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:02:32,477 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:02:35,058 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:02:36,660 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:02:38,082 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:02:42,797 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:03:03,175 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:03:15,798 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:04:08,472 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:04:08,473 - Error parsing menu configuration: Expecting ',' delimiter: line 134 column 7 (char 3050)
+2025-01-14 23:04:08,473 - Menu structure is empty.
+2025-01-14 23:04:08,506 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:04:08,506 - Error parsing menu configuration: Expecting ',' delimiter: line 134 column 7 (char 3050)
+2025-01-14 23:04:08,507 - Menu structure is empty.
+2025-01-14 23:04:08,541 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:04:08,542 - Error parsing menu configuration: Expecting ',' delimiter: line 134 column 7 (char 3050)
+2025-01-14 23:04:08,542 - Menu structure is empty.
+2025-01-14 23:04:08,575 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:04:08,575 - Error parsing menu configuration: Expecting ',' delimiter: line 134 column 7 (char 3050)
+2025-01-14 23:04:08,575 - Menu structure is empty.
+2025-01-14 23:04:29,112 - Starting the Ableton Helper...
+2025-01-14 23:04:29,112 - Config file is up to date.
+2025-01-14 23:04:33,920 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:04:33,920 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:04:57,871 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:05:13,409 - Executed: Tuner
+2025-01-14 23:05:14,368 - Ableton Live focused: HWND=591738
+2025-01-14 23:05:14,368 - Released all pressed keys.
+2025-01-14 23:05:14,369 - User input blocked. Starting automation.
+2025-01-14 23:05:14,785 - User input restored.
+2025-01-14 23:05:17,820 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 23:05:18,880 - Executed: "Recording Utilities.adg"
+2025-01-14 23:05:18,894 - Ableton Live focused: HWND=591738
+2025-01-14 23:05:18,896 - Released all pressed keys.
+2025-01-14 23:05:18,896 - User input blocked. Starting automation.
+2025-01-14 23:05:19,339 - User input restored.
+2025-01-14 23:06:09,763 - Starting the Ableton Helper...
+2025-01-14 23:06:09,763 - Config file is up to date.

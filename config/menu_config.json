@@ -1,30 +1,72 @@
 [
   {
-    "label": "Utility",
-    "command": "Utility"
-  },
-  { "type": "divider" },
-  {
-    "label": "Plugin B",
+    "label": "Instruments",
     "submenu": [
       {
-        "label": "Sub-plugin B1",
-        "command": "Sub-plugin B1"
+        "label": "Keyscape",
+        "command": "\"Keyscape\" vst3"
       },
       {
-        "label": "Sub-plugin B2",
-        "command": "Sub-plugin B2"
+        "label": "Instrument Rack",
+        "command": "\"Instrument Rack\""
       },
+      { "type": "divider" },
       {
-        "label": "Sub-plugin B3",
+        "label": "Synths",
         "submenu": [
           {
-            "label": "Sub-sub-plugin B3.1",
-            "command": "Sub-sub-plugin B3.1"
+            "label": "Serum",
+            "command": "\"Serum\" vst3"
           },
           {
-            "label": "Sub-sub-plugin B3.2",
-            "command": "Sub-sub-plugin B3.2"
+            "label": "Equator2",
+            "command": "\"Equator2\" vst3"
+          },
+          {
+            "label": "Ramzoid 808 Cooker",
+            "command": "\"Ramzoid 808 Cooker\" vst3"
+          },
+          {
+            "label": "Magical8bitPlug2",
+            "command": "\"Magical8bitPlug2\" vst"
+          },
+          {
+            "label": "SyndtSphere",
+            "command": "\"SyndtSphere\" vst"
+          }
+        ]
+      },
+      {
+        "label": "Sound Banks",
+        "submenu": [
+          {
+            "label": "Kontakt 7",
+            "command": "\"Kontakt 7\" vst3"
+          },
+          {
+            "label": "Analog Lab V",
+            "command": "\"Analog Lab V\" vst3"
+          },
+          {
+            "label": "Bass Fingers",
+            "command": "\"Bass Fingers Stereo\" vst3"
+          },
+          {
+            "label": "BBC Symphony Orchestra",
+            "command": "\"BBC Symphony Orchestra\" vst3"
+          }
+        ]
+      },
+      {
+        "label": "Drums",
+        "submenu": [
+          {
+            "label": "Addictive Drums 2",
+            "command": "\"Addictive Drums 2\" vst3"
+          },
+          {
+            "label": "Drum Rack",
+            "command": "Drum Rack"
           }
         ]
       }
@@ -32,24 +74,312 @@
   },
   { "type": "divider" },
   {
-    "label": "Plugin C",
-    "command": "Plugin C"
-  },
-  {
-    "label": "Plugin D",
+    "label": "Effects",
     "submenu": [
       {
-        "label": "Sub-plugin D1",
-        "command": "Sub-plugin D1"
+        "label": "Reverb",
+        "submenu": [
+          {
+            "label": "Reverb",
+            "command": "\"Algorithmic Reverb.adv\""
+          },
+          {
+            "label": "Convolution Reverb Pro",
+            "command": "\"Convolution Reverb Pro\""
+          },
+          {
+            "label": "Valhalla Supermassive",
+            "command": "\"ValhallaSupermassive_x64\" vst"
+          }
+        ]
       },
       {
-        "label": "Sub-plugin D2",
-        "command": "Sub-plugin D2"
+        "label": "Delay",
+        "submenu": [
+          {
+            "label": "Delay",
+            "command": "\"Digital Delay.adv\""
+          },
+          {
+            "label": "Echo",
+            "command": "\"Echo\""
+          }
+        ]
       },
       {
-        "label": "Sub-plugin E2",
-        "command": "Sub-plugin D2"
+        "label": "Distortion",
+        "submenu": [
+          {
+            "label": "Camel Crusher",
+            "command": "\"CamelCrusher\" vst"
+          },
+          {
+            "label": "Dynamic Tube",
+            "command": "\"Dynamic Tube\""
+          },
+          {
+            "label": "Erosion",
+            "command": "\"Erosion\""
+          },
+          {
+            "label": "Pedal",
+            "command": "\"Pedal\""
+          },
+          {
+            "label": "Overdrive",
+            "command": "\"Overdrive\""
+          }
+        ]
+      },
+      { "type": "divider" },
+      {
+        "label": "Vocals",
+        "submenu": [
+          {
+            "label": "Melodyne",
+            "command": "\"Melodyne\" vst3"
+          },
+          {
+            "label": "Autotune",
+            "command": "\"Auto-Tune EFX\" vst3"
+          },
+          { "type": "divider" },
+          {
+            "label": "CLA Vocals",
+            "command": "\"CLA Vocals Mono\" vst3"
+          },
+          {
+            "label": "Fresh Air",
+            "command": "\"Fresh Air\" vst3"
+          },
+          {
+            "label": "RDeEsser Stereo",
+            "command": "\"RDeEsser Stereo\" vst3"
+          },
+          { "type": "divider" },
+          {
+            "label": "Clarity Vx Stereo",
+            "command": "\"Clarity Vx Stereo\" vst3"
+          }
+        ]
+      },
+      {
+        "label": "Guitar",
+        "submenu": [
+          {
+            "label": "Archetype Tim Henson",
+            "command": "\"Archetype Tim Henson\" vst3"
+          },
+          {
+            "label": "Guitar Rack",
+            "command": "\"Guitar Rack.adg\""
+          },
+          {
+            "label": "CLA Guitars",
+            "command": "\"CLA Guitars Mono\" vst3"
+          },
+          {
+            "label": "Neural Amp Modeler",
+            "command": "\"NeuralAmpModeler\" vst3"
+          },
+          { "type": "divider" },
+          {
+            "label": "CLA Bass",
+            "command": "\"CLA Bass Stereo\" vst3"
+          }
+        ]
+      },
+      { "type": "divider" },
+      {
+        "label": "Creative",
+        "submenu": [
+          {
+            "label": "Redux",
+            "command": "\"Redux\""
+          },
+          {
+            "label": "Digitalis",
+            "command": "\"Digitalis\" vst3"
+          },
+          { "type": "divider" },
+          {
+            "label": "Little AlterBoy",
+            "command": "\"Little AlterBoy\" vst3"
+          },
+          {
+            "label": "Cymatics Origin",
+            "command": "\"Cymatics Origin\" vst3"
+          },
+          { "type": "divider" },
+          {
+            "label": "Pancake",
+            "command": "\"PanCake2-64bit\" vst"
+          },
+          {
+            "label": "Duck",
+            "command": "\"Duck\" vst"
+          },
+          {
+            "label": "Wider",
+            "command": "\"Wider\" vst"
+          }
+        ]
       }
     ]
+  },
+  { "type": "divider" },
+  {
+    "label": "Recording",
+    "submenu": [
+      {
+        "label": "Recording Utilities",
+        "command": "\"Recording Utilities.adg\""
+      }
+    ]
+  },
+  {
+    "label": "Mixing",
+    "submenu": [
+      {
+        "label": "EQ",
+        "submenu": [
+          {
+            "label": "EQ Three",
+            "command": "EQ Three"
+          },
+          {
+            "label": "EQ Eight",
+            "command": "EQ Eight"
+          },
+          {
+            "label": "Pro-Q 3",
+            "command": "\"VST3\" Pro-Q 3"
+          }
+        ]
+      },
+      {
+        "label": "Compressors",
+        "submenu": [
+          {
+            "label": "Compressor",
+            "command": "Compressor"
+          },
+          {
+            "label": "Glue Compressor",
+            "command": "Glue Compressor"
+          },
+          {
+            "label": "Multiband-Dynamics",
+            "command": "Multiband-Dynamics"
+          },
+          {
+            "label": "Pro-MB",
+            "command": "\"VST3\" Pro-MB"
+          },
+          {
+            "label": "CLA-76",
+            "command": "CLA-76 Stereo"
+          }
+        ]
+      },
+      { "type": "divider" },
+      {
+        "label": "Gate",
+        "command": "Gate"
+      },
+      {
+        "label": "Limiter",
+        "command": "\"Limit.adv\""
+      },
+      {
+        "label": "Saturator",
+        "command": "Saturator"
+      }
+    ]
+  },
+  {
+    "label": "Analysis",
+    "submenu": [
+      {
+        "label": "Stock",
+        "submenu": [
+          {
+            "label": "Tuner",
+            "command": "Tuner"
+          },
+          {
+            "label": "Spectrum",
+            "command": "Spectrum"
+          },
+          {
+            "label": "Oscilloscope",
+            "command": "Oscilloscope.amxd"
+          },
+          {
+            "label": "LUFS Meter",
+            "command": "LUFS Meter.amxd"
+          }
+        ]
+      },
+      {
+        "label": "Advanced",
+        "submenu": [
+          {
+            "label": "Youlean Loudness Meter 2",
+            "command": "\"Youlean Loudness Meter 2\" vst"
+          },
+          {
+            "label": "Ozone Imager",
+            "command": "\"Ozone 11 Imager\" vst"
+          }
+        ]
+      },
+      {
+        "label": "Comparison",
+        "submenu": [
+          {
+            "label": "Two-Way AB Comparison",
+            "command": "Two-Way AB Comparison.adg"
+          },
+          {
+            "label": "MCompare",
+            "command": "\"MCompare\" vst"
+          }
+        ]
+      },
+      { "type": "divider" },
+      {
+        "label": "Analysis",
+        "command": "Analysis.adg"
+      }
+    ]
+  },
+  { "type": "divider" },
+  {
+    "label": "MIDI",
+    "submenu": [
+      {
+        "label": "MIDI Pitch",
+        "command": "MIDI Pitch"
+      },
+      {
+        "label": "MIDI Monitor",
+        "command": "MIDI Monitor"
+      },
+      { "type": "divider" },
+      {
+        "label": "Arpeggiator",
+        "command": "Arpeggiator"
+      }
+    ]
+  },
+  { "type": "divider" },
+  {
+    "label": "Utility",
+    "command": "\"Utility.adv\""
+  },
+  {
+    "label": "Audio Effect Rack",
+    "command": "Audio Effect Rack"
   }
 ]
