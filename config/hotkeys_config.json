@@ -2,6 +2,7 @@
   "hotkeys": {
     "ctrl+alt+v": "hk_absolutepaste",
     "ctrl+alt+d": "hk_absoluteduplicate",
-    "e": "hk_effecttest"
+    "ctrl+shift+z": "hk_betterredo",
+    "e": "hk_pluginmenu"
   }
 }
