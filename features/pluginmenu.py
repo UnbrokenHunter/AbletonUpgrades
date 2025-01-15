@@ -11,7 +11,7 @@ from typing import List, Dict, Any, Optional
 MENU_CONFIG_PATH = "config/menu_config.json"  # Config file path
 PADDING_X = 20  # Horizontal padding
 PADDING_Y = 15  # Vertical padding
-CORNER_RADIUS = 20  # Corner radius for rounded rectangles
+CORNER_RADIUS = 5  # Corner radius for rounded rectangles
 BG_COLOR = "#2C2C2C"  # Default background color
 HOVER_COLOR = "#3C3C3C"  # Hover background color
 
@@ -78,6 +78,7 @@ class MenuManager:
         menu = tk.Toplevel(self.root)
         menu.overrideredirect(True)
         menu.attributes('-topmost', True)
+        menu.attributes("-alpha", 0.95)
         menu.geometry(f"{menu_width}x{menu_height}+{x_offset}+{y_offset}")
         menu.attributes('-transparentcolor', 'black')  # Make the black parts transparent
         menu.config(bg="black")
