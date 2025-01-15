@@ -19,10 +19,10 @@ class InputHandler:
         
         for hotkey, action_name in self.config["hotkeys"].items():
             action = action_registry.get(action_name)
-            if action:
-                log.info(f"Registered input '{hotkey}' for action '{action_name}'.")
-            else:
-                log.warning(f"Action '{action_name}' not found in registry.")
+            # if action:
+            #     log.info(f"Registered input '{hotkey}' for action '{action_name}'.")
+            # else:
+            #     log.warning(f"Action '{action_name}' not found in registry.")
 
     def process_inputs(self):
         for hotkey, action_name in self.config["hotkeys"].items():

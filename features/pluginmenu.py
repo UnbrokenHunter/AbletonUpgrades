@@ -34,12 +34,12 @@ def execute_command(label):
 
 
 # Core: Create Menu
-def create_menu(root, options, x_offset=0, y_offset=0):
+def create_menu(root, options, layer, x_offset=0, y_offset=0):
     """Create a menu at the given position with the provided options."""
     # Load custom font
     menu_font = load_custom_font(size=12)
 
-    # Calculate dimensions dynamicallye
+    # Calculate dimensions dynamically
     padding_x = 20  # Horizontal padding
     padding_y = 15  # Vertical padding
     corner_radius = 20
@@ -66,6 +66,12 @@ def create_menu(root, options, x_offset=0, y_offset=0):
     bg_label = tk.Label(menu, image=rounded_img_tk, bg="black", bd=0)
     bg_label.place(x=0, y=0, relwidth=1, relheight=1)
     bg_label.image = rounded_img_tk  # Keep a reference to avoid garbage collection
+
+    # Add the current menu to the layer stack
+    if layer >= len(root.layers):
+        root.layers.append(menu)
+    else:
+        root.layers[layer] = menu
 
     # Add menu items
     submenus = []
@@ -95,13 +101,19 @@ def create_menu(root, options, x_offset=0, y_offset=0):
         if "command" in option:
             label.bind("<Button-1>", lambda e, cmd=option["command"]: execute_command(cmd))
         elif "submenu" in option:
-            def open_submenu(event, opt=option):
+            def open_submenu(event, opt=option, idx=i):
+                # Remove menus deeper than this layer
+                for l in range(layer + 1, len(root.layers)):
+                    root.layers[l].destroy()
+                root.layers = root.layers[:layer + 1]
+
+                # Create the submenu
                 submenu_x = menu.winfo_x() + menu_width
-                submenu_y = menu.winfo_y() + i * (label_height + padding_y)
-                submenu = create_menu(root, opt["submenu"], x_offset=submenu_x, y_offset=submenu_y)
+                submenu_y = menu.winfo_y() + idx * (label_height + padding_y)
+                submenu = create_menu(root, opt["submenu"], layer + 1, x_offset=submenu_x, y_offset=submenu_y)
                 submenus.append(submenu)
 
-            label.bind("<Enter>", open_submenu)
+            label.bind("<Enter>", open_submenu, add="+")
 
     # Timer-based close logic
     def close_menu_with_buffer(event):
@@ -111,10 +123,10 @@ def create_menu(root, options, x_offset=0, y_offset=0):
         def check_mouse_position():
             if not menu.winfo_containing(event.x_root, event.y_root):
                 # Destroy all submenus
-                for submenu in submenus[:]:  # Copy the list to avoid modification during iteration
-                    if submenu and submenu.winfo_exists():
-                        submenu.destroy()
-                        submenus.remove(submenu)
+                for l in range(layer, len(root.layers)):
+                    if root.layers[l].winfo_exists():
+                        root.layers[l].destroy()
+                root.layers = root.layers[:layer]
                 menu.destroy()
                 root.destroy()
 
@@ -128,26 +140,28 @@ def create_menu(root, options, x_offset=0, y_offset=0):
             timer_id = None
 
     # Bind events for timer-based closing
-    menu.bind("<Leave>", close_menu_with_buffer)  # Trigger buffer on leave
-    menu.bind("<Enter>", cancel_timer)  # Cancel buffer when re-entering
-
+    menu.bind("<Leave>", close_menu_with_buffer, add="")  # Trigger buffer on leave
+    menu.bind("<Enter>", cancel_timer, add="")  # Cancel buffer when re-entering
 
 # Core: Run Function
 def run():
     """Load menu structure and display the menu."""
-    # Initialize the root window
+    # Initialize the root windowe
     root = tk.Tk()
     root.withdraw()  # Hide the root window
 
     # Load menu structure
     menu_structure = load_menu_config(MENU_CONFIG_PATH)
-
+    
     if not menu_structure:
         log.error("Menu structure is empty.")
         return
 
+    # Create Layers Variable (Set layer 0 in first create)
+    root.layers = []
+
     # Get mouse position and show menu
     x, y = root.winfo_pointerx(), root.winfo_pointery()
-    create_menu(root, menu_structure, x_offset=x - 20, y_offset=y - 20)
+    create_menu(root, menu_structure, 0, x_offset=x - 20, y_offset=y - 20)
 
     root.mainloop()

@@ -32099,3 +32099,831 @@
 2025-01-14 18:06:07,171 - Loading menu configuration from 'config/menu_config.json'
 2025-01-14 18:06:20,873 - Loading menu configuration from 'config/menu_config.json'
 2025-01-14 18:06:24,168 - Exiting...
+2025-01-14 18:09:13,402 - Starting the Ableton Helper...
+2025-01-14 18:09:13,402 - Config file is up to date.
+2025-01-14 18:09:13,403 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:09:13,403 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:09:13,403 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:09:13,403 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:09:15,745 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:09:23,240 - Exiting...
+2025-01-14 18:11:06,603 - Starting the Ableton Helper...
+2025-01-14 18:11:06,604 - Config file is up to date.
+2025-01-14 18:11:06,604 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:11:06,604 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:11:06,605 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:11:06,605 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:11:07,902 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:12:13,399 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:12:16,417 - Exiting...
+2025-01-14 18:13:51,546 - Starting the Ableton Helper...
+2025-01-14 18:13:51,547 - Config file is up to date.
+2025-01-14 18:13:51,547 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:13:51,547 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:13:51,547 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:13:51,547 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:13:53,084 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:14:07,684 - Exiting...
+2025-01-14 18:15:21,847 - Starting the Ableton Helper...
+2025-01-14 18:15:21,847 - Config file is up to date.
+2025-01-14 18:15:21,848 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:15:21,848 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:15:21,848 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:15:21,849 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:15:23,925 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:15:31,667 - Exiting...
+2025-01-14 18:17:50,926 - Starting the Ableton Helper...
+2025-01-14 18:17:50,926 - Config file is up to date.
+2025-01-14 18:17:50,928 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:17:50,928 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:17:50,928 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:17:50,929 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:17:53,222 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:18:05,493 - Exiting...
+2025-01-14 18:18:57,193 - Starting the Ableton Helper...
+2025-01-14 18:18:57,194 - Config file is up to date.
+2025-01-14 18:18:57,194 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:18:57,194 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:18:57,194 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:18:57,195 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:18:59,068 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:19:09,020 - Exiting...
+2025-01-14 18:19:46,406 - Starting the Ableton Helper...
+2025-01-14 18:19:46,406 - Config file is up to date.
+2025-01-14 18:19:46,407 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:19:46,407 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:19:46,407 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:19:46,407 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:19:47,844 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:19:51,756 - Exiting...
+2025-01-14 18:20:03,911 - Starting the Ableton Helper...
+2025-01-14 18:20:03,911 - Config file is up to date.
+2025-01-14 18:20:03,912 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:20:03,912 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:20:03,912 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:20:03,913 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:20:06,440 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:20:10,120 - Exiting...
+2025-01-14 18:20:52,897 - Starting the Ableton Helper...
+2025-01-14 18:20:52,898 - Config file is up to date.
+2025-01-14 18:20:52,898 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:20:52,898 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:20:52,899 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:20:52,899 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:20:55,128 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:20:56,516 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:20:57,786 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:20:58,978 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:21:00,093 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:21:00,980 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:21:01,564 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:22:28,917 - Starting the Ableton Helper...
+2025-01-14 18:22:28,917 - Config file is up to date.
+2025-01-14 18:22:28,917 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:22:28,917 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:22:28,918 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:22:28,918 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:22:30,471 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:22:33,897 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:22:54,216 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:22:58,015 - Exiting...
+2025-01-14 18:23:39,798 - Starting the Ableton Helper...
+2025-01-14 18:23:39,799 - Config file is up to date.
+2025-01-14 18:23:39,799 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:23:39,799 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:23:39,799 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:23:39,800 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:23:41,573 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:24:22,103 - Exiting...
+2025-01-14 18:24:23,166 - Starting the Ableton Helper...
+2025-01-14 18:24:23,166 - Config file is up to date.
+2025-01-14 18:24:23,168 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:24:23,168 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:24:23,168 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:24:23,168 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:24:24,933 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:24:42,824 - Exiting...
+2025-01-14 18:24:43,960 - Starting the Ableton Helper...
+2025-01-14 18:24:43,961 - Config file is up to date.
+2025-01-14 18:24:43,962 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:24:43,962 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:24:43,962 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:24:43,962 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:24:47,618 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:24:51,768 - Executed: Utility
+2025-01-14 18:24:52,711 - Ableton Live focused: HWND=591738
+2025-01-14 18:24:52,712 - Released all pressed keys.
+2025-01-14 18:24:52,712 - User input blocked. Starting automation.
+2025-01-14 18:24:53,129 - User input restored.
+2025-01-14 18:25:20,695 - Exiting...
+2025-01-14 18:25:21,715 - Starting the Ableton Helper...
+2025-01-14 18:25:21,715 - Config file is up to date.
+2025-01-14 18:25:21,716 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:25:21,716 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:25:21,716 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:25:21,717 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:25:23,808 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:25:24,602 - Executed: Utility
+2025-01-14 18:25:25,537 - Ableton Live focused: HWND=591738
+2025-01-14 18:25:25,538 - Released all pressed keys.
+2025-01-14 18:25:25,539 - User input blocked. Starting automation.
+2025-01-14 18:25:25,955 - User input restored.
+2025-01-14 18:25:29,800 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:27:08,149 - Exiting...
+2025-01-14 18:27:08,940 - Starting the Ableton Helper...
+2025-01-14 18:27:08,940 - Config file is up to date.
+2025-01-14 18:27:08,941 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:27:08,941 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:27:08,941 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:27:08,941 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:27:10,359 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:28:37,817 - Exiting...
+2025-01-14 18:28:38,523 - Starting the Ableton Helper...
+2025-01-14 18:28:38,523 - Config file is up to date.
+2025-01-14 18:28:38,524 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:28:38,524 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:28:38,524 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:28:38,524 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:28:40,166 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:29:00,183 - Starting the Ableton Helper...
+2025-01-14 18:29:00,184 - Config file is up to date.
+2025-01-14 18:29:00,185 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:29:00,185 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:29:00,185 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:29:00,185 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:29:01,572 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:29:16,456 - Starting the Ableton Helper...
+2025-01-14 18:29:16,456 - Config file is up to date.
+2025-01-14 18:29:16,457 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:29:16,457 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:29:16,457 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:29:16,457 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:29:18,207 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:31:05,832 - Starting the Ableton Helper...
+2025-01-14 18:31:05,833 - Config file is up to date.
+2025-01-14 18:31:05,833 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:31:05,833 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:31:05,833 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:31:05,835 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:31:07,120 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:31:11,410 - Starting the Ableton Helper...
+2025-01-14 18:31:11,411 - Config file is up to date.
+2025-01-14 18:31:11,411 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:31:11,411 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:31:11,412 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:31:11,412 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:31:12,297 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:31:42,933 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:31:56,319 - Exiting...
+2025-01-14 18:32:00,427 - Starting the Ableton Helper...
+2025-01-14 18:32:00,427 - Config file is up to date.
+2025-01-14 18:32:00,428 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:32:00,428 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:32:00,428 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:32:00,428 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:32:02,872 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:32:21,657 - Exiting...
+2025-01-14 18:32:51,968 - Starting the Ableton Helper...
+2025-01-14 18:32:51,968 - Config file is up to date.
+2025-01-14 18:32:51,969 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:32:51,969 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:32:51,969 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:32:51,969 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:32:53,690 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:32:57,040 - Exiting...
+2025-01-14 18:33:06,326 - Starting the Ableton Helper...
+2025-01-14 18:33:06,327 - Config file is up to date.
+2025-01-14 18:33:06,327 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:33:06,327 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:33:06,327 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:33:06,328 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:33:08,015 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:33:08,785 - Clearing Sub Menus
+2025-01-14 18:33:09,515 - Clearing Sub Menus
+2025-01-14 18:33:21,512 - Exiting...
+2025-01-14 18:34:32,579 - Starting the Ableton Helper...
+2025-01-14 18:34:32,580 - Config file is up to date.
+2025-01-14 18:34:32,580 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:34:32,581 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:34:32,581 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:34:32,581 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:34:34,766 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:34:40,822 - Exiting...
+2025-01-14 18:34:50,094 - Starting the Ableton Helper...
+2025-01-14 18:34:50,095 - Config file is up to date.
+2025-01-14 18:34:50,095 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:34:50,096 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:34:50,096 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:34:50,096 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:34:51,819 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:34:53,041 - Clearing Sub Menus <built-in method count of list object at 0x000002296D5690C0>
+2025-01-14 18:34:58,259 - Clearing Sub Menus <built-in method count of list object at 0x000002296D5690C0>
+2025-01-14 18:34:59,277 - Clearing Sub Menus <built-in method count of list object at 0x000002296D5690C0>
+2025-01-14 18:35:12,842 - Exiting...
+2025-01-14 18:35:25,385 - Starting the Ableton Helper...
+2025-01-14 18:35:25,386 - Config file is up to date.
+2025-01-14 18:35:25,386 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:35:25,386 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:35:25,386 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:35:25,386 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:35:27,863 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:35:29,918 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:35:44,781 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:35:50,344 - Exiting...
+2025-01-14 18:35:51,897 - Starting the Ableton Helper...
+2025-01-14 18:35:51,897 - Config file is up to date.
+2025-01-14 18:35:51,897 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:35:51,897 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:35:51,897 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:35:51,899 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:35:53,147 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:35:58,309 - Exiting...
+2025-01-14 18:36:01,815 - Starting the Ableton Helper...
+2025-01-14 18:36:01,815 - Config file is up to date.
+2025-01-14 18:36:01,816 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:36:01,816 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:36:01,816 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:36:01,816 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:36:03,032 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:36:03,322 - Clearing Sub Menus 1
+2025-01-14 18:36:04,236 - Clearing Sub Menus 2
+2025-01-14 18:36:07,830 - Clearing Sub Menus 3
+2025-01-14 18:36:10,216 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:36:12,227 - Clearing Sub Menus 1
+2025-01-14 18:36:14,109 - Clearing Sub Menus 2
+2025-01-14 18:36:16,173 - Clearing Sub Menus 3
+2025-01-14 18:36:18,400 - Clearing Sub Menus 4
+2025-01-14 18:36:20,376 - Clearing Sub Menus 1
+2025-01-14 18:36:26,701 - Exiting...
+2025-01-14 18:36:38,018 - Starting the Ableton Helper...
+2025-01-14 18:36:38,018 - Config file is up to date.
+2025-01-14 18:36:38,019 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:36:38,019 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:36:38,019 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:36:38,019 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:36:39,960 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:36:40,616 - Clearing Sub Menus 1
+2025-01-14 18:36:41,814 - Clearing Sub Menus 2
+2025-01-14 18:36:42,690 - Clearing Sub Menus 3
+2025-01-14 18:36:43,412 - Clearing Sub Menus 1
+2025-01-14 18:36:43,893 - Clearing Sub Menus 2
+2025-01-14 18:36:44,530 - Clearing Sub Menus 4
+2025-01-14 18:36:44,818 - Clearing Sub Menus 5
+2025-01-14 18:36:45,064 - Clearing Sub Menus 6
+2025-01-14 18:36:45,828 - Clearing Sub Menus 7
+2025-01-14 18:36:46,178 - Clearing Sub Menus 8
+2025-01-14 18:36:47,032 - Clearing Sub Menus 9
+2025-01-14 18:36:47,328 - Clearing Sub Menus 10
+2025-01-14 18:36:49,774 - Exiting...
+2025-01-14 18:38:33,190 - Starting the Ableton Helper...
+2025-01-14 18:38:33,190 - Config file is up to date.
+2025-01-14 18:38:33,190 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:38:33,190 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:38:33,192 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:38:33,192 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:38:35,436 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:38:36,960 - Clearing Sub Menus 1
+2025-01-14 18:38:38,122 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:38:39,879 - Clearing Sub Menus 1
+2025-01-14 18:38:43,387 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:38:45,794 - Clearing Sub Menus 1
+2025-01-14 18:38:46,528 - Exiting...
+2025-01-14 18:38:47,537 - Starting the Ableton Helper...
+2025-01-14 18:38:47,537 - Config file is up to date.
+2025-01-14 18:38:47,538 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:38:47,538 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:38:47,538 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:38:47,538 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:38:49,166 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:38:50,310 - Clearing Sub Menus 1
+2025-01-14 18:40:09,242 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:40:12,308 - Clearing Sub Menus 1
+2025-01-14 18:40:13,988 - Clearing Sub Menus 1
+2025-01-14 18:40:17,094 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:40:17,361 - Clearing Sub Menus 1
+2025-01-14 18:40:18,352 - Clearing Sub Menus 1
+2025-01-14 18:40:22,297 - Exiting...
+2025-01-14 18:41:43,138 - Starting the Ableton Helper...
+2025-01-14 18:41:43,138 - Config file is up to date.
+2025-01-14 18:41:43,138 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:41:43,139 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:41:43,139 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:41:43,139 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:41:45,799 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:41:56,564 - Exiting...
+2025-01-14 18:42:27,763 - Starting the Ableton Helper...
+2025-01-14 18:42:27,763 - Config file is up to date.
+2025-01-14 18:42:27,763 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:42:27,764 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:42:27,764 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:42:27,764 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:42:29,571 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:42:36,190 - Exiting...
+2025-01-14 18:42:53,182 - Starting the Ableton Helper...
+2025-01-14 18:42:53,182 - Config file is up to date.
+2025-01-14 18:42:53,183 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:42:53,183 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:42:53,183 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:42:53,183 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:42:55,610 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:42:59,521 - Exiting...
+2025-01-14 18:44:26,449 - Starting the Ableton Helper...
+2025-01-14 18:44:26,449 - Config file is up to date.
+2025-01-14 18:44:26,450 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:44:26,450 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:44:26,450 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:44:26,450 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:44:28,126 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:44:51,000 - Exiting...
+2025-01-14 18:44:51,680 - Starting the Ableton Helper...
+2025-01-14 18:44:51,680 - Config file is up to date.
+2025-01-14 18:44:51,680 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 18:44:51,681 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 18:44:51,681 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 18:44:51,681 - Hotkeys registered. Listening for inputs...
+2025-01-14 18:44:53,452 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:44:59,666 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:45:01,755 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 18:45:05,027 - Exiting...
+2025-01-14 19:34:51,713 - Starting the Ableton Helper...
+2025-01-14 19:34:51,713 - Starting the Ableton Helper...
+2025-01-14 19:34:51,713 - Starting the Ableton Helper...
+2025-01-14 19:34:51,718 - Config file is up to date.
+2025-01-14 19:34:51,718 - Config file is up to date.
+2025-01-14 19:34:51,718 - Config file is up to date.
+2025-01-14 19:34:51,718 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:34:51,718 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:34:51,719 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:34:51,719 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:34:51,719 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:34:51,719 - Registered input 'e' for action 'hk_effecttest'.
+uteduplicate'.
+2025-01-14 19:34:51,719 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:34:51,719 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:34:51,719 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:34:51,720 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:35:11,788 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:11,788 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:11,788 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:13,138 - Executed: Utility
+2025-01-14 19:35:14,172 - Ableton Live focused: HWND=591738
+2025-01-14 19:35:14,173 - Released all pressed keys.
+2025-01-14 19:35:14,173 - User input blocked. Starting automation.
+2025-01-14 19:35:14,595 - User input restored.
+2025-01-14 19:35:15,246 - Executed: Utility
+2025-01-14 19:35:16,320 - Ableton Live focused: HWND=591738
+2025-01-14 19:35:16,320 - Released all pressed keys.
+2025-01-14 19:35:16,320 - User input blocked. Starting automation.
+2025-01-14 19:35:17,351 - User input restored.
+2025-01-14 19:35:17,356 - Executed: Utility
+2025-01-14 19:35:17,373 - Ableton Live focused: HWND=591738
+2025-01-14 19:35:17,373 - Released all pressed keys.
+2025-01-14 19:35:17,373 - User input blocked. Starting automation.
+2025-01-14 19:35:18,267 - User input restored.
+2025-01-14 19:35:18,271 - Executed: Utility
+2025-01-14 19:35:18,286 - Ableton Live focused: HWND=591738
+2025-01-14 19:35:18,286 - Released all pressed keys.
+2025-01-14 19:35:18,286 - User input blocked. Starting automation.
+2025-01-14 19:35:19,378 - User input restored.
+2025-01-14 19:35:19,384 - Executed: Utility
+2025-01-14 19:35:19,402 - Ableton Live focused: HWND=591738
+2025-01-14 19:35:19,402 - Released all pressed keys.
+2025-01-14 19:35:19,402 - User input blocked. Starting automation.
+2025-01-14 19:35:20,473 - User input restored.
+2025-01-14 19:35:28,787 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:28,805 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:29,334 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:38,688 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:38,712 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:43,990 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:35:43,997 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:36:38,022 - Starting the Ableton Helper...
+2025-01-14 19:36:38,022 - Config file is up to date.
+2025-01-14 19:36:38,023 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:36:38,023 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:36:38,023 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:36:38,023 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:36:42,757 - Starting the Ableton Helper...
+2025-01-14 19:36:42,757 - Config file is up to date.
+2025-01-14 19:36:42,758 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:36:42,758 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:36:42,758 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:36:42,758 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:36:45,899 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:36:49,595 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:36:50,986 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:36:52,479 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:36:56,961 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:36:57,860 - Executed: Utility
+2025-01-14 19:36:58,884 - Ableton Live focused: HWND=591738
+2025-01-14 19:36:58,885 - Released all pressed keys.
+2025-01-14 19:36:58,885 - User input blocked. Starting automation.
+2025-01-14 19:36:59,303 - User input restored.
+2025-01-14 19:37:10,548 - Starting the Ableton Helper...
+2025-01-14 19:37:10,548 - Config file is up to date.
+2025-01-14 19:37:10,548 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:37:10,549 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:37:10,549 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:37:10,549 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:38:20,441 - Starting the Ableton Helper...
+2025-01-14 19:38:20,441 - Config file is up to date.
+2025-01-14 19:38:20,442 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:38:20,442 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:38:20,442 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:38:20,443 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:38:25,848 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:38:27,077 - Executed: Sub-plugin B1
+2025-01-14 19:38:28,066 - Ableton Live focused: HWND=591738
+2025-01-14 19:38:28,067 - Released all pressed keys.
+2025-01-14 19:38:28,067 - User input blocked. Starting automation.
+2025-01-14 19:38:28,494 - User input restored.
+2025-01-14 19:40:15,431 - Starting the Ableton Helper...
+2025-01-14 19:40:15,431 - Config file is up to date.
+2025-01-14 19:40:15,432 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:40:15,432 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:40:15,432 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:40:15,432 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:40:29,618 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:40:30,170 - Executed: Utility
+2025-01-14 19:40:31,127 - Ableton Live focused: HWND=591738
+2025-01-14 19:40:31,127 - Released all pressed keys.
+2025-01-14 19:40:31,127 - User input blocked. Starting automation.
+2025-01-14 19:40:31,548 - User input restored.
+2025-01-14 19:40:37,112 - Starting the Ableton Helper...
+2025-01-14 19:40:37,112 - Config file is up to date.
+2025-01-14 19:40:37,112 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:40:37,113 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:40:37,113 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:40:37,113 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:40:54,404 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:49:38,589 - Starting the Ableton Helper...
+2025-01-14 19:49:38,589 - Config file is up to date.
+2025-01-14 19:49:38,590 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:49:38,590 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:49:38,590 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:49:38,590 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:49:40,218 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:49:42,835 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:50:19,453 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:50:30,730 - Starting the Ableton Helper...
+2025-01-14 19:50:30,731 - Config file is up to date.
+2025-01-14 19:50:30,731 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:50:30,731 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:50:30,732 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:50:30,732 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:50:35,019 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:51:21,507 - Starting the Ableton Helper...
+2025-01-14 19:51:21,508 - Config file is up to date.
+2025-01-14 19:51:21,508 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:51:21,508 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:51:21,508 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:51:21,509 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:51:23,211 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:51:25,205 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:52:10,294 - Starting the Ableton Helper...
+2025-01-14 19:52:10,295 - Config file is up to date.
+2025-01-14 19:52:10,295 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:52:10,295 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:52:10,295 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:52:10,296 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:52:12,753 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:52:13,976 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:52:15,202 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:52:16,511 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:52:17,233 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:52:21,922 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:52:22,884 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:52:29,248 - Starting the Ableton Helper...
+2025-01-14 19:52:29,248 - Config file is up to date.
+2025-01-14 19:52:29,249 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:52:29,249 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:52:29,249 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:52:29,249 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:52:29,790 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:53:09,082 - Starting the Ableton Helper...
+2025-01-14 19:53:09,082 - Config file is up to date.
+2025-01-14 19:53:09,083 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:53:09,083 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:53:09,083 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:53:09,083 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:53:10,405 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:53:44,907 - Starting the Ableton Helper...
+2025-01-14 19:53:44,907 - Config file is up to date.
+2025-01-14 19:53:44,908 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:53:44,908 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:53:44,908 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:53:44,908 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:54:03,568 - Starting the Ableton Helper...
+2025-01-14 19:54:03,568 - Config file is up to date.
+2025-01-14 19:54:03,568 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:54:03,568 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:54:03,570 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:54:03,570 - Hotkeys registered. Listening for inputs...
+2025-01-14 19:54:08,018 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:54:12,251 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:54:31,670 - Starting the Ableton Helper...
+2025-01-14 19:54:31,671 - Config file is up to date.
+2025-01-14 19:54:31,671 - Registered input 'ctrl+alt+v' for action 'hk_absolutepaste'.
+2025-01-14 19:54:31,671 - Registered input 'ctrl+alt+d' for action 'hk_absoluteduplicate'.
+2025-01-14 19:54:31,672 - Registered input 'e' for action 'hk_effecttest'.
+2025-01-14 19:55:05,198 - Starting the Ableton Helper...
+2025-01-14 19:55:05,198 - Config file is up to date.
+2025-01-14 19:55:09,758 - Starting the Ableton Helper...
+2025-01-14 19:55:09,758 - Config file is up to date.
+2025-01-14 19:55:12,717 - Starting the Ableton Helper...
+2025-01-14 19:55:12,718 - Config file is up to date.
+2025-01-14 19:55:14,818 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 19:56:39,716 - Starting the Ableton Helper...
+2025-01-14 19:56:39,717 - Config file is up to date.
+2025-01-14 19:56:40,512 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:00:26,577 - Starting the Ableton Helper...
+2025-01-14 20:00:26,578 - Config file is up to date.
+2025-01-14 20:21:55,762 - Starting the Ableton Helper...
+2025-01-14 20:21:55,762 - Config file is up to date.
+2025-01-14 20:22:00,514 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:22:11,594 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:22:31,329 - Starting the Ableton Helper...
+2025-01-14 20:22:31,330 - Config file is up to date.
+2025-01-14 20:22:33,602 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:24:59,955 - Starting the Ableton Helper...
+2025-01-14 20:24:59,956 - Config file is up to date.
+2025-01-14 20:25:05,095 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:14,920 - Starting the Ableton Helper...
+2025-01-14 20:25:14,921 - Config file is up to date.
+2025-01-14 20:25:17,345 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:17,371 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:20,886 - Starting the Ableton Helper...
+2025-01-14 20:25:20,886 - Config file is up to date.
+2025-01-14 20:25:21,119 - Starting the Ableton Helper...
+2025-01-14 20:25:21,119 - Config file is up to date.
+2025-01-14 20:25:21,345 - Starting the Ableton Helper...
+2025-01-14 20:25:21,345 - Config file is up to date.
+2025-01-14 20:25:21,530 - Starting the Ableton Helper...
+2025-01-14 20:25:21,530 - Config file is up to date.
+2025-01-14 20:25:21,697 - Starting the Ableton Helper...
+2025-01-14 20:25:21,697 - Config file is up to date.
+2025-01-14 20:25:21,876 - Starting the Ableton Helper...
+2025-01-14 20:25:21,877 - Config file is up to date.
+2025-01-14 20:25:22,075 - Starting the Ableton Helper...
+2025-01-14 20:25:22,076 - Config file is up to date.
+2025-01-14 20:25:22,264 - Starting the Ableton Helper...
+2025-01-14 20:25:22,265 - Config file is up to date.
+2025-01-14 20:25:47,538 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,547 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,571 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,612 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,647 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,684 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,696 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,706 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,715 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:47,719 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:25:57,918 - Executed: Sub-plugin B1
+2025-01-14 20:25:58,906 - Ableton Live focused: HWND=591738
+2025-01-14 20:25:58,906 - Released all pressed keys.
+2025-01-14 20:25:58,906 - User input blocked. Starting automation.
+2025-01-14 20:25:59,543 - User input restored.
+2025-01-14 20:25:59,548 - Executed: Sub-plugin B2
+2025-01-14 20:25:59,564 - Ableton Live focused: HWND=591738
+2025-01-14 20:25:59,564 - Released all pressed keys.
+2025-01-14 20:25:59,564 - User input blocked. Starting automation.
+2025-01-14 20:26:01,112 - User input restored.
+2025-01-14 20:26:01,116 - Executed: Sub-plugin D2
+2025-01-14 20:26:01,131 - Ableton Live focused: HWND=591738
+2025-01-14 20:26:01,131 - Released all pressed keys.
+2025-01-14 20:26:01,132 - User input blocked. Starting automation.
+2025-01-14 20:26:01,661 - User input restored.
+2025-01-14 20:26:01,669 - Executed: Plugin C
+2025-01-14 20:26:01,685 - Ableton Live focused: HWND=591738
+2025-01-14 20:26:01,685 - Released all pressed keys.
+2025-01-14 20:26:01,685 - User input blocked. Starting automation.
+2025-01-14 20:26:02,252 - User input restored.
+2025-01-14 20:26:02,257 - Executed: Plugin C
+2025-01-14 20:26:02,272 - Ableton Live focused: HWND=591738
+2025-01-14 20:26:02,273 - Released all pressed keys.
+2025-01-14 20:26:02,273 - User input blocked. Starting automation.
+2025-01-14 20:26:02,935 - User input restored.
+2025-01-14 20:26:02,939 - Executed: Plugin C
+2025-01-14 20:26:02,955 - Ableton Live focused: HWND=591738
+2025-01-14 20:26:02,955 - Released all pressed keys.
+2025-01-14 20:26:02,955 - User input blocked. Starting automation.
+2025-01-14 20:26:03,465 - User input restored.
+2025-01-14 20:26:03,469 - Executed: Plugin C
+2025-01-14 20:26:03,485 - Ableton Live focused: HWND=591738
+2025-01-14 20:26:03,485 - Released all pressed keys.
+2025-01-14 20:26:03,485 - User input blocked. Starting automation.
+2025-01-14 20:26:04,018 - User input restored.
+2025-01-14 20:26:04,022 - Executed: Plugin C
+2025-01-14 20:26:04,036 - Ableton Live focused: HWND=591738
+2025-01-14 20:26:04,036 - Released all pressed keys.
+2025-01-14 20:26:04,037 - User input blocked. Starting automation.
+2025-01-14 20:26:04,560 - User input restored.
+2025-01-14 20:26:04,565 - Executed: Plugin C
+2025-01-14 20:26:04,583 - Ableton Live focused: HWND=591738
+2025-01-14 20:26:04,583 - Released all pressed keys.
+2025-01-14 20:26:04,583 - User input blocked. Starting automation.
+2025-01-14 20:26:05,804 - User input restored.
+2025-01-14 20:26:07,546 - Starting the Ableton Helper...
+2025-01-14 20:26:07,547 - Config file is up to date.
+2025-01-14 20:29:16,772 - Executed: Plugin C
+2025-01-14 20:29:17,846 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:17,846 - Released all pressed keys.
+2025-01-14 20:29:17,847 - User input blocked. Starting automation.
+2025-01-14 20:29:20,271 - User input restored.
+2025-01-14 20:29:20,278 - Executed: Plugin C
+2025-01-14 20:29:20,297 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:20,297 - Released all pressed keys.
+2025-01-14 20:29:20,297 - User input blocked. Starting automation.
+2025-01-14 20:29:22,321 - User input restored.
+2025-01-14 20:29:22,326 - Executed: Plugin C
+2025-01-14 20:29:22,344 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:22,345 - Released all pressed keys.
+2025-01-14 20:29:22,345 - User input blocked. Starting automation.
+2025-01-14 20:29:24,542 - User input restored.
+2025-01-14 20:29:24,548 - Executed: Plugin C
+2025-01-14 20:29:24,564 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:24,565 - Released all pressed keys.
+2025-01-14 20:29:24,565 - User input blocked. Starting automation.
+2025-01-14 20:29:27,816 - User input restored.
+2025-01-14 20:29:27,823 - Executed: Plugin C
+2025-01-14 20:29:27,841 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:27,842 - Released all pressed keys.
+2025-01-14 20:29:27,842 - User input blocked. Starting automation.
+2025-01-14 20:29:29,317 - User input restored.
+2025-01-14 20:29:29,324 - Executed: Plugin C
+2025-01-14 20:29:29,340 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:29,340 - Released all pressed keys.
+2025-01-14 20:29:29,340 - User input blocked. Starting automation.
+2025-01-14 20:29:30,514 - User input restored.
+2025-01-14 20:29:30,519 - Executed: Plugin C
+2025-01-14 20:29:30,537 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:30,537 - Released all pressed keys.
+2025-01-14 20:29:30,537 - User input blocked. Starting automation.
+2025-01-14 20:29:31,496 - User input restored.
+2025-01-14 20:29:31,502 - Executed: Plugin C
+2025-01-14 20:29:31,517 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:31,518 - Released all pressed keys.
+2025-01-14 20:29:31,518 - User input blocked. Starting automation.
+2025-01-14 20:29:32,230 - User input restored.
+2025-01-14 20:29:32,234 - Executed: Plugin C
+2025-01-14 20:29:32,249 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:32,250 - Released all pressed keys.
+2025-01-14 20:29:32,250 - User input blocked. Starting automation.
+2025-01-14 20:29:32,926 - User input restored.
+2025-01-14 20:29:32,932 - Executed: Plugin C
+2025-01-14 20:29:32,949 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:32,949 - Released all pressed keys.
+2025-01-14 20:29:32,950 - User input blocked. Starting automation.
+2025-01-14 20:29:38,286 - User input restored.
+2025-01-14 20:29:38,290 - Executed: Plugin C
+2025-01-14 20:29:38,301 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:38,301 - Released all pressed keys.
+2025-01-14 20:29:38,301 - User input blocked. Starting automation.
+2025-01-14 20:29:43,718 - User input restored.
+2025-01-14 20:29:43,721 - Executed: Plugin C
+2025-01-14 20:29:43,733 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:43,734 - Released all pressed keys.
+2025-01-14 20:29:43,734 - User input blocked. Starting automation.
+2025-01-14 20:29:49,481 - User input restored.
+2025-01-14 20:29:49,485 - Executed: Plugin C
+2025-01-14 20:29:49,496 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:49,497 - Released all pressed keys.
+2025-01-14 20:29:49,497 - User input blocked. Starting automation.
+2025-01-14 20:29:53,628 - User input restored.
+2025-01-14 20:29:53,635 - Executed: Plugin C
+2025-01-14 20:29:53,654 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:53,655 - Released all pressed keys.
+2025-01-14 20:29:53,655 - User input blocked. Starting automation.
+2025-01-14 20:29:53,655 - User input restored.
+2025-01-14 20:29:53,667 - Executed: Plugin C
+2025-01-14 20:29:53,690 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:53,690 - Released all pressed keys.
+2025-01-14 20:29:53,690 - User input blocked. Starting automation.
+2025-01-14 20:29:53,690 - User input restored.
+2025-01-14 20:29:53,693 - Executed: Plugin C
+2025-01-14 20:29:53,706 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:53,707 - Released all pressed keys.
+2025-01-14 20:29:53,707 - User input blocked. Starting automation.
+2025-01-14 20:29:53,707 - User input restored.
+2025-01-14 20:29:53,715 - Executed: Plugin C
+2025-01-14 20:29:53,735 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:53,736 - Released all pressed keys.
+2025-01-14 20:29:53,736 - User input blocked. Starting automation.
+2025-01-14 20:29:53,736 - User input restored.
+2025-01-14 20:29:53,741 - Executed: Plugin C
+2025-01-14 20:29:53,754 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:53,754 - Released all pressed keys.
+2025-01-14 20:29:53,755 - User input blocked. Starting automation.
+2025-01-14 20:29:53,756 - User input restored.
+2025-01-14 20:29:53,763 - Executed: Plugin C
+2025-01-14 20:29:53,786 - Ableton Live focused: HWND=591738
+2025-01-14 20:29:53,786 - Released all pressed keys.
+2025-01-14 20:29:53,787 - User input blocked. Starting automation.
+2025-01-14 20:29:53,787 - User input restored.
+2025-01-14 20:31:14,627 - Starting the Ableton Helper...
+2025-01-14 20:31:14,627 - Config file is up to date.
+2025-01-14 20:31:47,103 - Starting the Ableton Helper...
+2025-01-14 20:31:47,103 - Config file is up to date.
+2025-01-14 20:31:59,920 - Starting the Ableton Helper...
+2025-01-14 20:31:59,920 - Config file is up to date.
+2025-01-14 20:32:05,685 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:32:09,006 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:32:09,451 - Executed: Utility
+2025-01-14 20:32:10,389 - Ableton Live focused: HWND=591738
+2025-01-14 20:32:10,390 - Released all pressed keys.
+2025-01-14 20:32:10,390 - User input blocked. Starting automation.
+2025-01-14 20:32:10,810 - User input restored.
+2025-01-14 20:32:21,449 - Starting the Ableton Helper...
+2025-01-14 20:32:21,449 - Config file is up to date.
+2025-01-14 20:32:25,388 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:32:46,006 - Starting the Ableton Helper...
+2025-01-14 20:32:46,007 - Config file is up to date.
+2025-01-14 20:32:47,577 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:32:48,680 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:04,746 - Starting the Ableton Helper...
+2025-01-14 20:33:04,746 - Config file is up to date.
+2025-01-14 20:33:05,877 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:05,883 - []
+2025-01-14 20:33:05,884 - Test
+2025-01-14 20:33:06,009 - []
+2025-01-14 20:33:06,009 - Test
+2025-01-14 20:33:06,185 - []
+2025-01-14 20:33:06,185 - Test
+2025-01-14 20:33:06,519 - []
+2025-01-14 20:33:06,520 - Test
+2025-01-14 20:33:06,603 - []
+2025-01-14 20:33:06,603 - Test
+2025-01-14 20:33:10,542 - Starting the Ableton Helper...
+2025-01-14 20:33:10,542 - Config file is up to date.
+2025-01-14 20:33:12,073 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:12,079 - []
+2025-01-14 20:33:12,259 - []
+2025-01-14 20:33:12,469 - []
+2025-01-14 20:33:15,097 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:15,102 - []
+2025-01-14 20:33:15,353 - []
+2025-01-14 20:33:15,731 - []
+2025-01-14 20:33:16,478 - []
+2025-01-14 20:33:17,381 - []
+2025-01-14 20:33:18,392 - []
+2025-01-14 20:33:20,957 - []
+2025-01-14 20:33:20,997 - []
+2025-01-14 20:33:27,821 - Starting the Ableton Helper...
+2025-01-14 20:33:27,821 - Config file is up to date.
+2025-01-14 20:33:29,884 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:29,890 - .
+2025-01-14 20:33:30,149 - .
+2025-01-14 20:33:30,325 - .
+2025-01-14 20:33:30,707 - .
+2025-01-14 20:33:30,947 - .
+2025-01-14 20:33:32,179 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:32,184 - .
+2025-01-14 20:33:32,355 - .
+2025-01-14 20:33:32,492 - .
+2025-01-14 20:33:32,759 - .
+2025-01-14 20:33:33,257 - .
+2025-01-14 20:33:34,591 - .
+2025-01-14 20:33:39,061 - Starting the Ableton Helper...
+2025-01-14 20:33:39,062 - Config file is up to date.
+2025-01-14 20:33:40,173 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:40,178 - .!toplevel
+2025-01-14 20:33:41,996 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:42,000 - .!toplevel
+2025-01-14 20:33:42,305 - .!toplevel2
+2025-01-14 20:33:42,775 - .!toplevel3
+2025-01-14 20:33:43,350 - .!toplevel4
+2025-01-14 20:33:43,841 - .!toplevel5
+2025-01-14 20:33:44,980 - .!toplevel6
+2025-01-14 20:33:45,232 - .!toplevel7
+2025-01-14 20:33:47,060 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:47,064 - .!toplevel
+2025-01-14 20:33:48,780 - .!toplevel2
+2025-01-14 20:33:50,029 - .!toplevel3
+2025-01-14 20:33:53,687 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:33:53,693 - .!toplevel
+2025-01-14 20:33:53,952 - .!toplevel2
+2025-01-14 20:33:54,172 - .!toplevel3
+2025-01-14 20:33:54,485 - .!toplevel4
+2025-01-14 20:33:54,942 - .!toplevel5
+2025-01-14 20:33:55,354 - .!toplevel6
+2025-01-14 20:33:55,612 - .!toplevel7
+2025-01-14 20:33:56,004 - .!toplevel8
+2025-01-14 20:33:58,727 - .!toplevel9
+2025-01-14 20:37:57,331 - Starting the Ableton Helper...
+2025-01-14 20:37:57,331 - Config file is up to date.
+2025-01-14 20:38:12,109 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:38:30,261 - Starting the Ableton Helper...
+2025-01-14 20:38:30,261 - Config file is up to date.
+2025-01-14 20:38:34,234 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:39:36,406 - Starting the Ableton Helper...
+2025-01-14 20:39:36,406 - Config file is up to date.
+2025-01-14 20:39:37,845 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:39:39,610 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:39:40,962 - Loading menu configuration from 'config/menu_config.json'
+2025-01-14 20:39:42,101 - Executed: Sub-plugin B2
+2025-01-14 20:39:43,038 - Ableton Live focused: HWND=591738
+2025-01-14 20:39:43,038 - Released all pressed keys.
+2025-01-14 20:39:43,038 - User input blocked. Starting automation.
+2025-01-14 20:39:43,464 - User input restored.
+2025-01-14 20:39:54,001 - Starting the Ableton Helper...
+2025-01-14 20:39:54,001 - Config file is up to date.

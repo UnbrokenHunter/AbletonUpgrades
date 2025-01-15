@@ -12,7 +12,7 @@ def main():
     handler = InputHandler(CONFIG_PATH)
     handler.register_hotkeys()
 
-    log.info("Hotkeys registered. Listening for inputs...")
+    # log.info("Hotkeys registered. Listening for inputs...")
 
     try:
         while True:
