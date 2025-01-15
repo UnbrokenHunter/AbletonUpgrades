@@ -3,6 +3,7 @@
     "ctrl+alt+v": "hk_absolutepaste",
     "ctrl+alt+d": "hk_absoluteduplicate",
     "ctrl+shift+z": "hk_betterredo",
+    "ctrl+b": "hk_buplicate",
     "e": "hk_pluginmenu"
   }
 }
