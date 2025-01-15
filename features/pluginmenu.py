@@ -3,15 +3,14 @@ import tkinter as tk
 from features import addplugin
 from utils.font_utils import load_custom_font
 from utils.json_utils import load_menu_config
+from utils import menu_utils
 from utils.window_utils import focus_ableton
-from PIL import Image, ImageTk, ImageDraw
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any
 
 # Constants
 MENU_CONFIG_PATH = "config/menu_config.json"  # Config file path
 PADDING_X = 20  # Horizontal padding
 PADDING_Y = 15  # Vertical padding
-CORNER_RADIUS = 5  # Corner radius for rounded rectangles
 BG_COLOR = "#2C2C2C"  # Default background color
 HOVER_COLOR = "#3C3C3C"  # Hover background color
 
@@ -21,20 +20,6 @@ class MenuManager:
     def __init__(self):
         self.root = None
         self.layers = []  # Stack to manage menu layers
-
-    def create_rounded_rectangle_image(self, width: int, height: int, corner_radius: int, bg_color: str,
-                                        border_color: Optional[str] = None, border_width: int = 0) -> Image:
-        """Create a rounded rectangle image using Pillow."""
-        img = Image.new("RGBA", (width, height), (0, 0, 0, 0))  # Transparent background
-        draw = ImageDraw.Draw(img)
-        draw.rounded_rectangle(
-            (border_width, border_width, width - border_width, height - border_width),
-            radius=corner_radius,
-            fill=bg_color,
-            outline=border_color,
-            width=border_width
-        )
-        return img
 
     def execute_command(self, label: str):
         """Execute a command associated with a menu item."""
@@ -59,34 +44,20 @@ class MenuManager:
 
         # Calculate dimensions dynamically
         try:
-            max_label_width = max(menu_font.measure(option["label"]) for option in options) + PADDING_X
+            max_label_width = max(menu_font.measure(option["label"]) for option in options) + PADDING_X * 2 + 10  # Extra space for chevrons
         except KeyError as e:
             log.error(f"Menu option missing required field: {e}")
             return
 
         label_height = menu_font.metrics("linespace")
-        menu_width = max_label_width + PADDING_X * 2
+        menu_width = max_label_width
         menu_height = (label_height + PADDING_Y) * len(options)
 
-        # Create rounded background image
-        rounded_img = self.create_rounded_rectangle_image(
-            menu_width, menu_height, CORNER_RADIUS, BG_COLOR
-        )
-        rounded_img_tk = ImageTk.PhotoImage(rounded_img)
-
-        # Create a new top-level menu
         menu = tk.Toplevel(self.root)
         menu.overrideredirect(True)
         menu.attributes('-topmost', True)
-        menu.attributes("-alpha", 0.95)
         menu.geometry(f"{menu_width}x{menu_height}+{x_offset}+{y_offset}")
-        menu.attributes('-transparentcolor', 'black')  # Make the black parts transparent
-        menu.config(bg="black")
-
-        # Set the background image
-        bg_label = tk.Label(menu, image=rounded_img_tk, bg="black", bd=0)
-        bg_label.place(x=0, y=0, relwidth=1, relheight=1)
-        bg_label.image = rounded_img_tk  # Keep a reference to avoid garbage collection
+        menu.config(bg=BG_COLOR)
 
         # Add the current menu to the layer stack
         if layer >= len(self.layers):
@@ -107,7 +78,7 @@ class MenuManager:
                 pady=5
             )
             label.place(
-                x=PADDING_X,
+                x=0,
                 y=i * (label_height + PADDING_Y),
                 width=max_label_width,
                 height=label_height + PADDING_Y
@@ -122,6 +93,21 @@ class MenuManager:
                 label.bind("<Button-1>", lambda e, cmd=option["command"]: self.execute_command(cmd))
             elif "submenu" in option:
                 label.bind("<Enter>", lambda e, opt=option, idx=i: self.create_submenu(opt, idx, menu, menu_width, label_height, PADDING_Y, layer))
+
+                # Add chevron indicator for submenu
+                chevron = tk.Label(
+                    menu,
+                    text="▶",
+                    bg=BG_COLOR,
+                    fg="white",
+                    font=menu_font
+                )
+                chevron.place(
+                    x=menu_width - 30,  # Position chevron on the right
+                    y=i * (label_height + PADDING_Y),
+                    width=20,
+                    height=label_height + PADDING_Y
+                )
 
         # Timer-based close logic
         def close_menu_with_buffer(event):
