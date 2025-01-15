@@ -3,6 +3,7 @@
     "label": "Utility",
     "command": "Utility"
   },
+  { "type": "divider" },
   {
     "label": "Plugin B",
     "submenu": [
@@ -29,6 +30,7 @@
       }
     ]
   },
+  { "type": "divider" },
   {
     "label": "Plugin C",
     "command": "Plugin C"

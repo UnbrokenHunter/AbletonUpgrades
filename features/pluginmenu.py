@@ -44,14 +44,14 @@ class MenuManager:
 
         # Calculate dimensions dynamically
         try:
-            max_label_width = max(menu_font.measure(option["label"]) for option in options) + PADDING_X * 2 + 10  # Extra space for chevrons
+            max_label_width = max(menu_font.measure(option.get("label", "")) for option in options if option.get("type") != "divider") + PADDING_X * 2 + 10  # Extra space for chevrons
         except KeyError as e:
             log.error(f"Menu option missing required field: {e}")
             return
 
         label_height = menu_font.metrics("linespace")
         menu_width = max_label_width
-        menu_height = (label_height + PADDING_Y) * len(options)
+        menu_height = sum((label_height + PADDING_Y) if option.get("type") != "divider" else 5 for option in options)
 
         menu = tk.Toplevel(self.root)
         menu.overrideredirect(True)
@@ -65,8 +65,14 @@ class MenuManager:
         else:
             self.layers[layer] = menu
 
-        # Add menu items
-        for i, option in enumerate(options):
+        current_y = 0
+        for option in options:
+            if option.get("type") == "divider":
+                divider = tk.Frame(menu, bg="white", height=2, bd=0, highlightthickness=0)
+                divider.place(x=0, y=current_y, width=menu_width, height=2)
+                current_y += 5
+                continue
+
             label = tk.Label(
                 menu,
                 text=option["label"],
@@ -79,10 +85,11 @@ class MenuManager:
             )
             label.place(
                 x=0,
-                y=i * (label_height + PADDING_Y),
+                y=current_y,
                 width=max_label_width,
                 height=label_height + PADDING_Y
             )
+            current_y += label_height + PADDING_Y
 
             # Hover effects
             label.bind("<Enter>", lambda e, lbl=label: lbl.config(bg=HOVER_COLOR))
@@ -92,24 +99,23 @@ class MenuManager:
             if "command" in option:
                 label.bind("<Button-1>", lambda e, cmd=option["command"]: self.execute_command(cmd))
             elif "submenu" in option:
-                label.bind("<Enter>", lambda e, opt=option, idx=i: self.create_submenu(opt, idx, menu, menu_width, label_height, PADDING_Y, layer))
+                label.bind("<Enter>", lambda e, opt=option, lbl=label: self.create_submenu(opt, lbl, menu_width, label_height, PADDING_Y, layer), add="+")
 
                 # Add chevron indicator for submenu
                 chevron = tk.Label(
                     menu,
-                    text="▶",
+                    text="\u25B6",
                     bg=BG_COLOR,
                     fg="white",
                     font=menu_font
                 )
                 chevron.place(
                     x=menu_width - 30,  # Position chevron on the right
-                    y=i * (label_height + PADDING_Y),
+                    y=current_y - (label_height + PADDING_Y),
                     width=20,
                     height=label_height + PADDING_Y
                 )
 
-        # Timer-based close logic
         def close_menu_with_buffer(event):
             """Start a timer to check if the mouse is outside the menu."""
             global timer_id
@@ -131,14 +137,13 @@ class MenuManager:
                 self.root.after_cancel(timer_id)
                 timer_id = None
 
-        # Bind events for timer-based closing
         menu.bind("<Leave>", close_menu_with_buffer, add="")  # Trigger buffer on leave
         menu.bind("<Enter>", cancel_timer, add="")  # Cancel buffer when re-entering
 
-    def create_submenu(self, option: Dict[str, Any], index: int, parent_menu: tk.Toplevel, menu_width: int, label_height: int, padding_y: int, layer: int):
+    def create_submenu(self, option: Dict[str, Any], label: tk.Label, menu_width: int, label_height: int, padding_y: int, layer: int):
         """Create a submenu at the appropriate position."""
-        submenu_x = parent_menu.winfo_x() + menu_width
-        submenu_y = parent_menu.winfo_y() + index * (label_height + padding_y)
+        submenu_x = label.winfo_rootx() + menu_width
+        submenu_y = label.winfo_rooty()
         self.create_menu(option["submenu"], layer + 1, x_offset=submenu_x, y_offset=submenu_y)
 
     def destroy_all_menus(self):
@@ -159,7 +164,6 @@ class MenuManager:
             log.error("Menu structure is empty.")
             return
 
-        # Get mouse position and show menu
         x, y = self.root.winfo_pointerx(), self.root.winfo_pointery()
         self.create_menu(menu_structure, 0, x_offset=x - 20, y_offset=y - 20)
 
