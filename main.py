@@ -1,4 +1,5 @@
 from core.hotkey_manager import InputHandler
+from core.create_menu import create_menu
 from utils.window_utils import is_ableton_active
 from utils.logging_utils import log
 
@@ -13,6 +14,9 @@ def main():
     handler.register_hotkeys()
 
     # log.info("Hotkeys registered. Listening for inputs...")
+
+    # Init Menu Tkinter
+    create_menu()
 
     try:
         while True:
