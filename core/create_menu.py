@@ -6,6 +6,7 @@ from utils.window_utils import focus_ableton
 from utils.font_utils import load_custom_font
 from utils.json_utils import load_menu_config
 from typing import List, Dict, Any
+from pynput import mouse, keyboard
 
 # Constants
 MENU_CONFIG_PATH = "config/menu_config.json"  # Config file path
@@ -37,8 +38,6 @@ class MenuManager:
                 self.layers[l].withdraw()
                 
     def show_menu(self):
-        log.debug("Show Menu")
-        log.debug(len(self.layers))
         if self.layers[0].winfo_exists():
             self.layers[0].deiconify()
         
@@ -158,25 +157,40 @@ class MenuManager:
                 chevron.bind("<Enter>", on_hover_enter, add="+")  # Ensure chevron triggers the hover effect
                 chevron.bind("<Leave>", on_hover_leave, add="+")
 
-        def close_menu_with_buffer(event):
-            """Start a timer to check if the mouse is outside the menu."""
-            global timer_id
+        # def close_menu_with_buffer(event):
+        #     """Start a timer to check if the mouse is outside the menu."""
+        #     global timer_id
 
-            def check_mouse_position():
-                if not menu.winfo_containing(self.root.winfo_pointerx(), self.root.winfo_pointery()):
-                    self.hide_menu()                    
+        #     def check_mouse_position():
+        #         if not menu.winfo_containing(self.root.winfo_pointerx(), self.root.winfo_pointery()):
+        #             self.hide_menu()                    
                     
-            timer_id = self.root.after(800, check_mouse_position)  # Delay before checking
+        #     timer_id = self.root.after(800, check_mouse_position)  # Delay before checking
 
-        def cancel_timer(event):
-            """Cancel the timer if the mouse re-enters the menu."""
-            global timer_id
-            if timer_id:
-                self.root.after_cancel(timer_id)
-                timer_id = None
+        # def cancel_timer(event):
+        #     """Cancel the timer if the mouse re-enters the menu."""
+        #     global timer_id
+        #     if timer_id:
+        #         self.root.after_cancel(timer_id)
+        #         timer_id = None
 
-        menu.bind("<Leave>", close_menu_with_buffer, add="+")  # Trigger buffer on leave
-        menu.bind("<Enter>", cancel_timer, add="+")  # Cancel buffer when re-entering
+        # menu.bind("<Leave>", close_menu_with_buffer, add="+")  # Trigger buffer on leave
+        # menu.bind("<Enter>", cancel_timer, add="+")  # Cancel buffer when re-entering
+
+        def is_mouse_in_menu(x, y, button, pressed):
+            if not menu.winfo_containing(self.root.winfo_pointerx(), self.root.winfo_pointery()):
+                self.hide_menu()
+
+        mouse_listener = mouse.Listener(on_click=is_mouse_in_menu)
+        mouse_listener.start()
+        
+        # Because on press has to take in a variable and hide menu donst take any
+        def close_with_esc_key(a):
+            self.hide_menu()
+        
+        keyboard_listener = keyboard.Listener(on_press=close_with_esc_key)
+        keyboard_listener.start()
+
 
     def create_submenu(self, option: Dict[str, Any], label: tk.Label, menu_width: int, label_height: int, padding_y: int, layer: int):
         """Create a submenu at the appropriate position."""
