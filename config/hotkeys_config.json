@@ -4,6 +4,6 @@
     "ctrl+alt+d": "hk_absoluteduplicate",
     "ctrl+shift+z": "hk_betterredo",
     "ctrl+b": "hk_buplicate",
-    "e": "hk_pluginmenu"
+    "mouse.right.double": "hk_pluginmenu"
   }
 }

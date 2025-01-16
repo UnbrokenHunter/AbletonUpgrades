@@ -30,7 +30,7 @@ class InputHandler:
             if action and callable(action) and not hotkey.startswith("mouse.") and keyboard.is_pressed(hotkey):
                 action()
 
-    def _on_mouse_click(self, x, y, button, pressed):
+    def _on_mouse_click(self, x, y, button, pressed):        
         if not pressed:
             return  # Process only press events
 

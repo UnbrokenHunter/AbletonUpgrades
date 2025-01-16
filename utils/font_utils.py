@@ -1,5 +1,6 @@
 import ctypes
 from tkinter import font
+from utils.logging_utils import log
 import os
 
 FONT_PATH = "rsc/DIN-Regular.ttf"  # Path to the DIN font
