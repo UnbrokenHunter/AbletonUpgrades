@@ -166,7 +166,7 @@ class MenuManager:
                 if not menu.winfo_containing(self.root.winfo_pointerx(), self.root.winfo_pointery()):
                     self.hide_menu()                    
                     
-            timer_id = self.root.after(400, check_mouse_position)  # Delay before checking
+            timer_id = self.root.after(800, check_mouse_position)  # Delay before checking
 
         def cancel_timer(event):
             """Cancel the timer if the mouse re-enters the menu."""

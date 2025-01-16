@@ -34032,3 +34032,151 @@ uteduplicate'.
 2025-01-15 23:16:40,766 - Show Menu
 2025-01-15 23:16:40,766 - 2
 2025-01-15 23:16:40,772 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:20:42,242 - Show Menu
+2025-01-15 23:20:42,242 - 3
+2025-01-15 23:20:42,247 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:21:26,817 - Starting the Ableton Helper...
+2025-01-15 23:21:26,818 - Config file is up to date.
+2025-01-15 23:21:26,851 - Loading menu configuration from 'config/menu_config.json'
+2025-01-15 23:22:04,763 - Starting the Ableton Helper...
+2025-01-15 23:22:04,764 - Config file is up to date.
+2025-01-15 23:22:04,796 - Loading menu configuration from 'config/menu_config.json'
+2025-01-15 23:22:08,614 - Show Menu
+2025-01-15 23:22:08,615 - 1
+2025-01-15 23:22:08,621 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:22:14,629 - Starting the Ableton Helper...
+2025-01-15 23:22:14,629 - Config file is up to date.
+2025-01-15 23:22:14,665 - Loading menu configuration from 'config/menu_config.json'
+2025-01-15 23:22:31,502 - Show Menu
+2025-01-15 23:22:31,502 - 1
+2025-01-15 23:22:31,507 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:22:40,964 - Show Menu
+2025-01-15 23:22:40,964 - 2
+2025-01-15 23:22:40,968 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:22:42,664 - Show Menu
+2025-01-15 23:22:42,664 - 2
+2025-01-15 23:22:42,667 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:22:44,444 - Show Menu
+2025-01-15 23:22:44,444 - 2
+2025-01-15 23:22:44,449 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:22:47,301 - Executed: "Algorithmic Reverb.adv"
+2025-01-15 23:22:48,291 - Ableton Live focused: HWND=53089296
+2025-01-15 23:22:48,292 - Released all pressed keys.
+2025-01-15 23:22:48,292 - User input blocked. Starting automation.
+2025-01-15 23:22:48,726 - User input restored.
+2025-01-15 23:22:56,921 - Show Menu
+2025-01-15 23:22:56,921 - 2
+2025-01-15 23:22:56,927 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:22:59,863 - Executed: "Digital Delay.adv"
+2025-01-15 23:22:59,879 - Ableton Live focused: HWND=53089296
+2025-01-15 23:22:59,879 - Released all pressed keys.
+2025-01-15 23:22:59,879 - User input blocked. Starting automation.
+2025-01-15 23:23:00,311 - User input restored.
+2025-01-15 23:23:09,593 - Executed: "Redux"
+2025-01-15 23:23:09,609 - Ableton Live focused: HWND=53089296
+2025-01-15 23:23:09,609 - Released all pressed keys.
+2025-01-15 23:23:09,609 - User input blocked. Starting automation.
+2025-01-15 23:23:10,029 - User input restored.
+2025-01-15 23:24:30,512 - Starting the Ableton Helper...
+2025-01-15 23:24:30,513 - Config file is up to date.
+2025-01-15 23:24:30,546 - Loading menu configuration from 'config/menu_config.json'
+2025-01-15 23:24:32,263 - Starting the Ableton Helper...
+2025-01-15 23:24:32,263 - Config file is up to date.
+2025-01-15 23:24:32,295 - Loading menu configuration from 'config/menu_config.json'
+2025-01-15 23:24:38,707 - Show Menu
+2025-01-15 23:24:38,707 - 1
+2025-01-15 23:24:38,710 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:24:47,093 - Executed: "Keyscape" vst3
+2025-01-15 23:24:48,068 - Ableton Live focused: HWND=53089296
+2025-01-15 23:24:48,068 - Released all pressed keys.
+2025-01-15 23:24:48,069 - User input blocked. Starting automation.
+2025-01-15 23:24:48,495 - User input restored.
+2025-01-15 23:24:51,115 - Show Menu
+2025-01-15 23:24:51,115 - 2
+2025-01-15 23:24:51,119 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:24:54,555 - Executed: "Digital Delay.adv"
+2025-01-15 23:24:54,571 - Ableton Live focused: HWND=53089296
+2025-01-15 23:24:54,572 - Released all pressed keys.
+2025-01-15 23:24:54,572 - User input blocked. Starting automation.
+2025-01-15 23:24:55,005 - User input restored.
+2025-01-15 23:25:46,682 - Starting the Ableton Helper...
+2025-01-15 23:25:46,682 - Config file is up to date.
+2025-01-15 23:25:46,723 - Loading menu configuration from 'config/menu_config.json'
+2025-01-15 23:25:48,044 - Show Menu
+2025-01-15 23:25:48,044 - 1
+2025-01-15 23:25:48,048 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:25:53,497 - Show Menu
+2025-01-15 23:25:53,497 - 3
+2025-01-15 23:25:53,503 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:25:54,901 - Executed: "Algorithmic Reverb.adv"
+2025-01-15 23:25:55,864 - Ableton Live focused: HWND=591738
+2025-01-15 23:25:55,865 - Released all pressed keys.
+2025-01-15 23:25:55,865 - User input blocked. Starting automation.
+2025-01-15 23:25:56,399 - User input restored.
+2025-01-15 23:26:01,983 - Show Menu
+2025-01-15 23:26:01,983 - 3
+2025-01-15 23:26:01,999 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:26:04,313 - Executed: "Digital Delay.adv"
+2025-01-15 23:26:04,332 - Ableton Live focused: HWND=591738
+2025-01-15 23:26:04,333 - Released all pressed keys.
+2025-01-15 23:26:04,333 - User input blocked. Starting automation.
+2025-01-15 23:26:04,868 - User input restored.
+2025-01-15 23:26:10,223 - Starting the Ableton Helper...
+2025-01-15 23:26:10,223 - Config file is up to date.
+2025-01-15 23:26:10,256 - Loading menu configuration from 'config/menu_config.json'
+2025-01-15 23:26:12,849 - Show Menu
+2025-01-15 23:26:12,849 - 1
+2025-01-15 23:26:12,855 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:26:13,602 - Show Menu
+2025-01-15 23:26:13,602 - 2
+2025-01-15 23:26:13,606 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:26:16,765 - Executed: "Echo"
+2025-01-15 23:26:17,725 - Ableton Live focused: HWND=591738
+2025-01-15 23:26:17,725 - Released all pressed keys.
+2025-01-15 23:26:17,726 - User input blocked. Starting automation.
+2025-01-15 23:26:18,143 - User input restored.
+2025-01-15 23:26:20,838 - Show Menu
+2025-01-15 23:26:20,838 - 3
+2025-01-15 23:26:20,841 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:02,010 - Starting the Ableton Helper...
+2025-01-15 23:28:02,010 - Config file is up to date.
+2025-01-15 23:28:02,041 - Loading menu configuration from 'config/menu_config.json'
+2025-01-15 23:28:04,786 - Show Menu
+2025-01-15 23:28:04,786 - 1
+2025-01-15 23:28:04,789 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:07,559 - Show Menu
+2025-01-15 23:28:07,559 - 2
+2025-01-15 23:28:07,563 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:10,648 - Show Menu
+2025-01-15 23:28:10,648 - 2
+2025-01-15 23:28:10,652 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:13,298 - Show Menu
+2025-01-15 23:28:13,298 - 2
+2025-01-15 23:28:13,301 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:15,720 - Show Menu
+2025-01-15 23:28:15,720 - 2
+2025-01-15 23:28:15,723 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:18,472 - Show Menu
+2025-01-15 23:28:18,472 - 2
+2025-01-15 23:28:18,478 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:23,660 - Show Menu
+2025-01-15 23:28:23,660 - 3
+2025-01-15 23:28:23,665 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:26,153 - Show Menu
+2025-01-15 23:28:26,154 - 2
+2025-01-15 23:28:26,158 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:28,918 - Show Menu
+2025-01-15 23:28:28,918 - 2
+2025-01-15 23:28:28,921 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:31,607 - Show Menu
+2025-01-15 23:28:31,607 - 3
+2025-01-15 23:28:31,611 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:35,122 - Show Menu
+2025-01-15 23:28:35,122 - 2
+2025-01-15 23:28:35,125 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:28:44,871 - Show Menu
+2025-01-15 23:28:44,871 - 2
+2025-01-15 23:28:44,873 - Executed double-click action: hk_pluginmenu
+2025-01-15 23:29:04,761 - Starting the Ableton Helper...
+2025-01-15 23:29:04,761 - Config file is up to date.
+2025-01-15 23:29:04,794 - Loading menu configuration from 'config/menu_config.json'

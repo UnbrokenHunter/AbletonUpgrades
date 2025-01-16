@@ -1,2 +1,4 @@
 Allow for custom directions (Different numbers of down arrows) in menu
 Add Keyboard navigation support to plugin menu
+Add Close Plugin Menu Time to config
+Make ESC and Clicking out close plugin menu
