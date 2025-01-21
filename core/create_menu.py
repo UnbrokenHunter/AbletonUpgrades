@@ -1,8 +1,8 @@
 import tkinter as tk
 import time
+import threading
 from features import addplugin
 from utils.logging_utils import log
-from utils.window_utils import focus_ableton
 from utils.font_utils import load_custom_font
 from utils.json_utils import load_menu_config
 from typing import List, Dict, Any
@@ -27,8 +27,9 @@ class MenuManager:
         """Execute a command associated with a menu item."""
         try:
             log.info(f"Executed: {label}")
-            focus_ableton()
-            addplugin.run(label)
+            self.hide_menu()
+            t1 = threading.Thread(target=addplugin.run, args=[label], daemon=True)
+            t1.start()
         except Exception as e:
             log.error(f"Error executing command '{label}': {e}")
         

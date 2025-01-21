@@ -1,17 +1,22 @@
 import pyautogui
 import time
-from utils.macro_utils import start_macro, stop_macro
+from utils.window_utils import focus_ableton
 from utils.logging_utils import log
 
 def run(plugin):
-    print(f"Attempting Add Plugin: {plugin}")
-    try:        
-        start_macro()
+    start = time.perf_counter()
 
-        pyautogui.hotkey("ctrl", "f")  # Search
-        pyautogui.write(str(plugin))
-        pyautogui.press("down")
-        pyautogui.press("enter")
+    focus_ableton()
 
-    finally:
-        stop_macro()
+    # print(f"Attempting Add Plugin: {plugin}")
+    # try:        
+    #     start_macro()
+
+    pyautogui.hotkey("ctrl", "f")  # Search
+    pyautogui.write(str(plugin), interval=0)
+    pyautogui.press("down")
+    pyautogui.press("enter")
+
+    # finally:
+    #     stop_macro()
+
