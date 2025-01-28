@@ -25,12 +25,12 @@ class MenuManager:
         
     def execute_command(self, label: str):
         """Execute a command associated with a menu item."""
-        try:
-            log.info(f"Executed: {label}")
-            self.hide_menu()
-            self.root.after(1, addplugin.run, [label])
-        except Exception as e:
-            log.error(f"Error executing command '{label}': {e}")
+        # try:
+        log.info(f"Executed: {label}")
+        self.hide_menu()
+        self.root.after(1, addplugin.run, [label])
+        # except Exception as e:
+            # log.error(f"Error executing command '{label}': {e}")
         
     def hide_menu(self):
         for l in range(0, len(self.layers)):
