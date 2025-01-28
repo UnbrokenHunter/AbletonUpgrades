@@ -3,6 +3,20 @@ import ctypes
 import pygetwindow as gw
 from utils.logging_utils import log
 
+is_busy = False
+
+def make_busy():
+    global is_busy
+    is_busy = True
+
+def stop_busy():
+    global is_busy
+    is_busy = False
+
+def check_busy():
+    global is_busy
+    return is_busy
+
 def start_macro():
     # Release all currently pressed keys
     release_pressed_keys()

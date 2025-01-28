@@ -8,17 +8,13 @@ root = None
 handler = None
 
 def process_inputs():    
-    try:
-        if is_ableton_active():
-            handler.process_inputs()
-    except KeyboardInterrupt:
-        log.info("Exiting...")
-        
+    if (is_ableton_active()):
+        handler.process_inputs() # If Ableton is active and any are triggered
+
     root.after(5, process_inputs)
-
-
+        
 def main():
-    log.info("Starting the Ableton Helper...")
+    log.info("Starting Ableton Upgrades...")
 
     # Hotkeys
     # ----------------------------------------
@@ -41,9 +37,6 @@ def main():
 
     root.after(1000, process_inputs)
     create_plugin_menu(root)
-
-    
-
 
 if __name__ == "__main__":
     main()

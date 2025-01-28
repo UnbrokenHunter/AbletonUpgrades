@@ -28,8 +28,7 @@ class MenuManager:
         try:
             log.info(f"Executed: {label}")
             self.hide_menu()
-            t1 = threading.Thread(target=addplugin.run, args=[label], daemon=True)
-            t1.start()
+            self.root.after(1, addplugin.run, [label])
         except Exception as e:
             log.error(f"Error executing command '{label}': {e}")
         

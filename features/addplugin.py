@@ -1,22 +1,24 @@
 import pyautogui
-import time
+import threading
+from utils import macro_utils
 from utils.window_utils import focus_ableton
 from utils.logging_utils import log
 
 def run(plugin):
-    start = time.perf_counter()
+    if (macro_utils.check_busy() == False):
+        macro_utils.make_busy()
+        t1 = threading.Thread(target=exectute, args=[plugin], daemon=True)
+        t1.start()
 
+def exectute(plugin):
+    print(f"Attempting Add Plugin: {plugin}")
+    
     focus_ableton()
-
-    # print(f"Attempting Add Plugin: {plugin}")
-    # try:        
-    #     start_macro()
 
     pyautogui.hotkey("ctrl", "f")  # Search
     pyautogui.write(str(plugin), interval=0)
     pyautogui.press("down")
     pyautogui.press("enter")
 
-    # finally:
-    #     stop_macro()
+    macro_utils.stop_busy()
 
