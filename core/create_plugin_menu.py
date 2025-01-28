@@ -158,26 +158,6 @@ class MenuManager:
                 chevron.bind("<Enter>", on_hover_enter, add="+")  # Ensure chevron triggers the hover effect
                 chevron.bind("<Leave>", on_hover_leave, add="+")
 
-        # def close_menu_with_buffer(event):
-        #     """Start a timer to check if the mouse is outside the menu."""
-        #     global timer_id
-
-        #     def check_mouse_position():
-        #         if not menu.winfo_containing(self.root.winfo_pointerx(), self.root.winfo_pointery()):
-        #             self.hide_menu()                    
-                    
-        #     timer_id = self.root.after(800, check_mouse_position)  # Delay before checking
-
-        # def cancel_timer(event):
-        #     """Cancel the timer if the mouse re-enters the menu."""
-        #     global timer_id
-        #     if timer_id:
-        #         self.root.after_cancel(timer_id)
-        #         timer_id = None
-
-        # menu.bind("<Leave>", close_menu_with_buffer, add="+")  # Trigger buffer on leave
-        # menu.bind("<Enter>", cancel_timer, add="+")  # Cancel buffer when re-entering
-
         def is_mouse_in_menu(x, y, button, pressed):
             if not menu.winfo_containing(self.root.winfo_pointerx(), self.root.winfo_pointery()):
                 self.hide_menu()
@@ -199,28 +179,33 @@ class MenuManager:
         submenu_y = label.winfo_rooty()
         self.create_menu(option["submenu"], layer + 1, x_offset=submenu_x, y_offset=submenu_y)
 
-    def run(self):
+    def run(self, main_menu):
         """Load menu structure and display the menu."""
-        self.root = tk.Tk()
-        self.root.withdraw()  # Hide the root window
 
+        self.root = main_menu
+
+        menu_structure = self.get_menu_structure()
+
+        x, y = self.root.winfo_pointerx(), self.root.winfo_pointery()
+        self.create_menu(menu_structure, 0, x_offset=x - 20, y_offset=y - 20)
+        self.hide_menu() # So it isnt shown after being created
+
+        self.root.mainloop()
+
+    def get_menu_structure(self):
         menu_structure = load_menu_config(MENU_CONFIG_PATH)
         if not menu_structure:
             log.error("Menu structure is empty.")
             return
-
-        x, y = self.root.winfo_pointerx(), self.root.winfo_pointery()
-        self.create_menu(menu_structure, 0, x_offset=x - 20, y_offset=y - 20)
-        self.hide_menu()
-
-        self.root.mainloop()
+        return menu_structure
 
 # Entry Point
-def create_menu():
+def create_plugin_menu(main_menu):
     """Load the menu system and execute it."""
     global menu
     menu = MenuManager()
-    menu.run()
+    menu.run(main_menu)
 
 def get_menu():
+    global menu
     return menu

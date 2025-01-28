@@ -1,6 +1,6 @@
 import pyautogui
 from utils.logging_utils import log
-from core.create_menu import get_menu
+from core.create_plugin_menu import get_menu
 
 # Entry Point
 def run():
