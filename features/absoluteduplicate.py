@@ -22,7 +22,7 @@ def exectute():
     pyautogui.keyUp("shift")
     pyautogui.keyUp("alt")
 
-    pyautogui.PAUSE = 0.01 # Small number to still allow it all to be registered
+    pyautogui.PAUSE = pause # Small number to still allow it all to be registered
 
     pyautogui.hotkey("ctrl", "c")  # Copy
     pyautogui.hotkey("ctrl", "d")  # Duplicate
