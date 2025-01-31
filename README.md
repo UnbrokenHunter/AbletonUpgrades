@@ -33,7 +33,7 @@ To begin, either copy and paste the template, or create an empty bracket.
   }
 ```
 
-The label is the name that will be displayed in your menu. Command is the term that will be used to search for the plugin. If the plugin you want is not the first result, you can try putting the command in quotes. (Make sure to use escape characters where necessary as this is json. Here is a [link](https://www.google.com "Escape Characters") if you need help) If that still does not work, you can create a preset of the plugin and name it more specific. If you create a preset, you should also be able to add the file extention "**.adv**" to your search term to further narrow it down. Each item must be seperated by a comma.
+The label is the name that will be displayed in your menu. Command is the term that will be used to search for the plugin. If the plugin you want is not the first result, you can try putting the command in quotes. (Make sure to use escape characters where necessary as this is json. Here is a [link](https://www.w3schools.com/r/r_strings_esc.asp#:~:text=To%20insert%20characters%20that%20are,character%20you%20want%20to%20insert. "Escape Characters") if you need help) If that still does not work, you can create a preset of the plugin and name it more specific. If you create a preset, you should also be able to add the file extention "**.adv**" to your search term to further narrow it down. Each item must be seperated by a comma.
 
 ##### Submenus
 
