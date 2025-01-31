@@ -16,7 +16,7 @@ The plugin menu is a customizable dropdown menu that allows you to quickly acces
 
 You can access it by double right clicking (unless you rebind it), and you can navigate around it with a mouse, and click to add a plugin.
 
-![Demo](./img/plugin_menu_demo.gif)
+![Demo](./github/img/plugin_menu_demo.gif)
 
 #### Config
 

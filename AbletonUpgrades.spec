@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['main.py'],
+    ['src\\main.py'],
     pathex=[],
     binaries=[],
     datas=[('rsc', 'rsc'), ('config', 'config')],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='main',
+    name='AbletonUpgrades',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

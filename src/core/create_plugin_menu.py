@@ -1,12 +1,10 @@
 import tkinter as tk
-import time
-import threading
+from typing import List, Dict, Any
+from pynput import mouse, keyboard
 from features import addplugin
 from utils.logging_utils import log
 from utils.font_utils import load_custom_font
 from utils.json_utils import load_menu_config
-from typing import List, Dict, Any
-from pynput import mouse, keyboard
 
 # Constants
 MENU_CONFIG_PATH = "config/menu_config.json"  # Config file path
